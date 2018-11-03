@@ -1,0 +1,638 @@
+Categoria,Tipu,Producte,Imatge,Alergens
+Congelados,Aves y carne congelada,Town Burgers hamburguesa Black Angus USA Deluxe 100% carne sin aditivos sin gluten talla L,00201112900327____1__600x600.jpg,[]
+Congelados,Aves y carne congelada,Town hamburguesa de vacuno de raza 100% carne sin aditivos clásica sin gluten talla L,00201112900301____1__600x600.jpg,[]
+Congelados,Aves y carne congelada,Town hamburguesa de ternera ecológica 100% carne sin aditivos sin gluten talla L 2x130g,00118912900240____1__600x600.jpg,[]
+Congelados,Aves y carne congelada,Town hamburguesa de ternera del Pirineo de Huesca 100% carne sin aditivos sin gluten,00118912900265____1__600x600.jpg,[]
+Congelados,Aves y carne congelada,Town hamburguesa tradicional 100% carne sin aditivos sin gluten talla M 3x80g,00118935100075____1__600x600.jpg,[]
+Congelados,"Helados, postres y nata",Caramel Attraction tarrinas de helado sabor caramelo 4 unidades de 86 ml,00118953904572____2__600x600.jpg,"['mantequilla', 'y de', 'Puede contener ingredientes de la', 'soja', 'huevo', 'Nata', 'leche', 'trigo', 'frutos de cáscara']"
+Congelados,"Helados, postres y nata",Fruit Collection tarrinas de helado sabores fruta 4 unidades 87 ml,00118953902006____7__600x600.jpg,"['leche', 'huevo', 'Nata']"
+Congelados,"Helados, postres y nata",peanut butter crunch helado de mantequilla de cacahuete,00118952005959____1__600x600.jpg,"['cacahuete', 'huevo', 'Nata', 'cacahuetes', 'leche']"
+Congelados,"Helados, postres y nata",Vanilla Attract tarrinas de helado varios sabores 4 unidades de 100ml,00118953905827____2__600x600.jpg,"['nueces pacanas', 'mantequilla', 'nueces de macadamia', 'huevo', 'Nata', 'leche', 'trigo', 'Puede contener ingredientes de otros frutos de cáscara.']"
+Congelados,"Helados, postres y nata",tarrinas sabor mango 2 unidades y framabuesa 2 unidades de 100 ml,00118953907146____1__600x600.jpg,[]
+Congelados,"Helados, postres y nata",tarrinas sabor yogur y yogur de fresa 4 unidades de 100 ml,00118953906536____6__600x600.jpg,"['Yogur', 'huevo', 'nata', 'leche']"
+Congelados,"Helados, postres y nata",helado de chocolate con trocitos de chocolate con 70% de cacao ecuatoriano,00118952004960____1__600x600.jpg,"['leche', 'soja', 'frutos de cáscara', 'Leche']"
+Congelados,"Helados, postres y nata",helado sorbete limón con zumo de limón,00118952000505____1__600x600.jpg,['leche']
+Congelados,"Helados, postres y nata",Original helado de chocolate 70% cacao ecuatoriano,00118952000497____3__600x600.jpg,"['leche', 'Leche']"
+Congelados,"Helados, postres y nata",Original helado de vainilla con extracto de vainilla natural de Madagascar,00118952000885____3__600x600.jpg,"['lactosa', 'leche', 'Leche']"
+Congelados,"Helados, postres y nata",helado de fresas y merengue,00118952004143____2__600x600.jpg,"['Leche', 'Puede contener: soja y frutos secos.', 'huevo', 'leche', 'trigo']"
+Congelados,"Helados, postres y nata",helado de chocolate brownie,00118952004150____2__600x600.jpg,"['Puede contener frutos secos.', 'Leche', 'mantequilla', 'huevo', 'leche', 'trigo']"
+Congelados,"Helados, postres y nata",helado de yogur y frutas del bosque,00118952000562____2__600x600.jpg,"['Yogur', 'leche']"
+Congelados,"Helados, postres y nata",helado de salsa de caramelo con mantequilla salada,00118952004366____1__600x600.jpg,"['leche', 'soja', 'Leche']"
+Congelados,"Helados, postres y nata",helado de tarta de limón,00118952004358____1__600x600.jpg,[]
+Congelados,"Helados, postres y nata",helado de tres chocolates,00118952004374____1__600x600.jpg,[]
+Congelados,"Helados, postres y nata",helado stracciatella sin gluten,00118952000539____2__600x600.jpg,"['leche', 'Leche']"
+Congelados,"Helados, postres y nata",helado de stracciatella sin gluten,00118952004705____1__600x600.jpg,"['mantequilla', 'leche', 'soja']"
+Congelados,"Helados, postres y nata",helado de yogur y frutas del bosque sin gluten,00118952004788____1__600x600.jpg,"['lactosa', 'leche', 'Leche', 'láctico']"
+Congelados,"Helados, postres y nata",helado de chocolate con trozos de chocolate belga,00118952004713____1__600x600.jpg,"['Leche', 'mantequilla', 'lactosa', 'soja', 'leche']"
+Congelados,"Helados, postres y nata",helado de chocolate con trozos de galleta de chocolate,00118952004721____1__600x600.jpg,"['Leche', 'mantequilla', 'lactosa', 'cebada', 'leche', 'trigo']"
+Congelados,"Helados, postres y nata",helado de dulce de leche sin gluten,00118952004747____1__600x600.jpg,"['mantequilla', 'leche', 'Leche', 'lactosa']"
+Congelados,"Helados, postres y nata",helado de menta con trozos de chocolate,00118952004754____2__600x600.jpg,"['Leche', 'mantequilla', 'lactosa', 'soja', 'leche']"
+Congelados,"Helados, postres y nata",helado de tarta de queso con sirope de fresa y galletas,00118952004739____1__600x600.jpg,"['Leche', 'mantequilla', 'lactosa', 'soja', 'huevo', 'leche', 'trigo']"
+Congelados,"Helados, postres y nata",helado de vainilla y nueces de macadamia sin gluten,00118952004762____2__600x600.jpg,"['Leche', 'nueces', 'mantequilla', 'lactosa', 'leche', 'nuez']"
+Congelados,"Helados, postres y nata",helado de yogur natural sin gluten,00118952004770____2__600x600.jpg,"['Leche', 'nata', 'lactosa', 'leche', 'láctico']"
+Congelados,"Helados, postres y nata",Bob Marley One Love helado de plátano con caramelo y galleta y trozos de chocolate,00118952004853____1__600x600.jpg,"['mantequilla', 'soja', 'huevo', 'Nata', 'leche', 'trigo']"
+Congelados,"Helados, postres y nata",Fudge Brownie helado de chocolate con brownie,00118952001107____3__600x600.jpg,[]
+Congelados,"Helados, postres y nata",Cookie Dough helado de vainilla con cookies y chocolate,00118952001115____1__600x600.jpg,"['Leche', 'mantequilla', 'soja', 'huevo', 'Nata', 'trigo']"
+Congelados,"Helados, postres y nata",peanut butter cup helado de chocolate y crema de cacahuetes,00118952004135____2__600x600.jpg,"['nata', 'soja', 'cacahuete', 'huevo', 'Puede contener gluten.', 'leche']"
+Congelados,"Helados, postres y nata",Strawberry Cheesecake helado de tarta de queso con fresa y cookie,00118952001149____1__600x600.jpg,"['queso', 'Leche', 'mantequilla', 'soja', 'huevo', 'Nata', 'trigo']"
+Congelados,"Helados, postres y nata",Core helado de chocolate y caramelo con trozos de chocolate y caramelo suave,00118952004382____9__600x600.jpg,"['mantequilla', 'soja', 'huevo', 'Nata', 'leche']"
+Congelados,"Helados, postres y nata",birthday cake helado de tarta de cumpleaños sabor tarta de fresa,00118952005900____6__600x600.jpg,"['mantequilla', 'soja', 'huevo', 'Nata', 'leche', 'trigo']"
+Congelados,"Helados, postres y nata",Cookie Dough S'wich Up helado de vainilla con trozos de galleta con pepitas de chocolate,00118952006023____1__600x600.jpg,[]
+Congelados,"Helados, postres y nata",Half Baked helado de chocolate y vainilla con trocitos de brownie y galleta con pepitas de,00118952006031____1__600x600.jpg,"['mantequilla', 'soja', 'huevo', 'Nata', 'cebada', 'leche', 'trigo']"
+Congelados,"Helados, postres y nata",What a lotta helado de chocolate con trozos de cookie,00118952004945____8__600x600.jpg,"['mantequilla', 'soja', 'huevo', 'Nata', 'leche', 'trigo']"
+Congelados,"Helados, postres y nata",helado de chocolate,0118952003780000g01011.jpg,"['soja', 'Leche']"
+Congelados,"Helados, postres y nata",helado de fresa,0118952003798000g01011.jpg,"['leche', 'Leche']"
+Congelados,"Helados, postres y nata",helado de sorbete de limón,0118952003806000g01011.jpg,['leche']
+Congelados,"Helados, postres y nata",helado de vainilla,00118952003814____1__600x600.jpg,"['leche', 'Leche']"
+Congelados,"Helados, postres y nata",Pints Almond helado de vainilla con trozos de almendra y cobertura de chocolate con leche,00118952004838____6__600x600.jpg,"['Leche', 'mantequilla', 'nata', 'almendras', 'soja', 'leche', 'frutos de cáscara']"
+Congelados,"Helados, postres y nata",Pints Classic helado de vainilla con trozos de chocolate y cobertura de chocolate,00118952004820____6__600x600.jpg,"['Leche', 'mantequilla', 'nata', 'soja', 'leche']"
+Congelados,"Helados, postres y nata",Pints Raspberry helado de frambuesa con crujiente capa y láminas de chocolate negro,00118952005306____6__600x600.jpg,"['mantequilla', 'leche', 'soja', 'Nata']"
+Congelados,"Helados, postres y nata",Pints White helado de vainilla con trozos y cobertura de chocolate blanco,00118952004846____6__600x600.jpg,"['mantequilla', 'leche', 'Leche', 'nata']"
+Congelados,"Helados, postres y nata",Praliné helado de crema de avellana con cobertura de chocolate con leche,00118952006015____8__600x600.jpg,"['Leche', 'avellanas', 'mantequilla', 'nata', 'soja', 'avellana', 'leche', 'frutos de cáscara']"
+Congelados,"Helados, postres y nata",Delight helado de chocolate bajo en calorias,00118952006007____1__600x600.jpg,"['leche', 'Leche', 'nata']"
+Congelados,"Helados, postres y nata",Delights helado de nata y cookies,00118952005991____1__600x600.jpg,"['Leche', 'mantequilla', 'nata', 'huevo', 'leche', 'trigo']"
+Congelados,"Helados, postres y nata",Delights helado sabor vainilla,00118952005983____1__600x600.jpg,"['leche', 'Leche', 'nata']"
+Congelados,"Helados, postres y nata",helado ecológico de café sin gluten,00118952005298____1__600x600.jpg,"['leche', 'Leche', 'nata']"
+Congelados,"Helados, postres y nata",helado ecológico de coco sin gluten y sin lactosa,00118952005256____1__600x600.jpg,[]
+Congelados,"Helados, postres y nata",helado ecológico de chocolate belga sin gluten,00118952005272____1__600x600.jpg,['leche']
+Congelados,"Helados, postres y nata",helado ecológico de fresa sin gluten y sin lactosa,00118952005231____1__600x600.jpg,[]
+Congelados,"Helados, postres y nata",helado ecológico de limón sin gluten y sin lactosa,00118952005264____1__600x600.jpg,[]
+Congelados,"Helados, postres y nata",helado ecológico de mandarina sin gluten y sin lactosa,00118952005249____1__600x600.jpg,[]
+Congelados,"Helados, postres y nata",helado ecológico de vainilla sin gluten,00118952005223____1__600x600.jpg,"['leche', 'Leche', 'nata']"
+Congelados,"Helados, postres y nata",helado de cuajada al kizkilurrin con leche de oveja sin gluten,0118952002303000g01011.jpg,"['leche', 'Leche']"
+Congelados,"Helados, postres y nata",helado de cuajada natural con leche de oveja sin gluten,0118952002311000g01011.jpg,"['leche', 'Leche']"
+Congelados,"Helados, postres y nata",helado de yogur natural con leche de oveja sin gluten,0118952002337000g01011.jpg,"['leche', 'Leche']"
+Congelados,"Helados, postres y nata",helado de leche merengada,00118952000133____1__600x600.jpg,"['frutos secos', 'Leche']"
+Congelados,"Helados, postres y nata",helado de stracciatella,00118952000083____1__600x600.jpg,"['Leche', 'Soja', 'frutos secos', 'Nata', 'Lecitina']"
+Congelados,"Helados, postres y nata",Mini helados surtidos Classico Almendras y Blanco sin gluten 10 unidades,00118953907096____6__600x600.jpg,"['Leche', 'mantequilla', 'almendras', 'soja', 'cacahuetes', 'leche', 'frutos de cáscara']"
+Congelados,"Helados, postres y nata",Mini Almendras bombón helado sin gluten 6 unidades,00118953907062____6__600x600.jpg,"['Leche', 'mantequilla', 'almendras', 'soja', 'cacahuetes', 'leche', 'frutos de cáscara']"
+Congelados,"Helados, postres y nata",Mini Dark mini helado de vainilla con chocolate negro sin gluten 6 unidades,00118953907104____6__600x600.jpg,"['Leche', 'mantequilla', 'soja', 'leche', 'frutos de cáscara']"
+Congelados,"Helados, postres y nata",Mini Double helados con doble caramelo y chocolate sin gluten 6 unidades,00118953906197____3__600x600.jpg,"['Leche', 'mantequilla', 'frutos secos', 'cacahuetes', 'leche']"
+Congelados,"Helados, postres y nata",Mini Double helados con doble cobertura de chocolate y caramelo sin gluten 6 unidades,00118953907252____6__600x600.jpg,"['Leche', 'mantequilla', 'cacahuetes', 'leche', 'frutos de cáscara']"
+Congelados,"Helados, postres y nata",Mini Double helados con doble chocolate sin gluten 6 unidades,00118953907260____6__600x600.jpg,"['Leche', 'mantequilla', 'cacahuetes', 'leche', 'frutos de cáscara']"
+Congelados,"Helados, postres y nata",mini helado de chocolate con menta 6 unidades,00118953907120____6__600x600.jpg,"['Leche', 'mantequilla', 'soja', 'cacahuetes', 'leche', 'frutos de cáscara']"
+Congelados,"Helados, postres y nata",Mini helados con cobertura de chocolate y avellanas relleno de praline sin gluten 6 unids.,00118953907237____6__600x600.jpg,"['Leche', 'avellanas', 'mantequilla', 'soja', 'avellana', 'leche', 'frutos de cáscara']"
+Congelados,"Helados, postres y nata",Mini helados con doble cobertura de chocolate y frambuesa sin gluten 6 unidades,00118953906676____6__600x600.jpg,"['Leche', 'mantequilla', 'frutos secos', 'cacahuetes', 'leche']"
+Congelados,"Helados, postres y nata","Mini helados surtidos Magnum Classico, Blanco y Almendras sin gluten 6 unidades",00118953907070____6__600x600.jpg,"['Leche', 'mantequilla', 'almendras', 'soja', 'cacahuetes', 'leche', 'frutos de cáscara']"
+Congelados,"Helados, postres y nata",Mini helados surtidos vainilla y chocolate blanco y almendrado sin gluten 6 unidades,00118953907088____6__600x600.jpg,"['Leche', 'mantequilla', 'almendras', 'soja', 'cacahuetes', 'leche', 'frutos de cáscara']"
+Congelados,"Helados, postres y nata",Classic helado de chocolate con leche y vainilla sin gluten 3 unidades,00118953905249____1__600x600.jpg,"['mantequilla', 'leche', 'soja', 'Leche']"
+Congelados,"Helados, postres y nata",Frac helado de nata con chocolate negro sin gluten 3 unidades,00118953905272____1__600x600.jpg,"['mantequilla', 'leche', 'Leche', 'nata']"
+Congelados,"Helados, postres y nata",helado de chocolate con leche y almendras sin gluten 3 unidades,00118953905256____1__600x600.jpg,"['Puede contener soja, otros frutos secos y cacahuetes', 'Leche', 'mantequilla', 'almendras', 'leche']"
+Congelados,"Helados, postres y nata",helados con cobertura de chocolate y avellanas y relleno de praline sin gluten 3 unidades,00118953907245____6__600x600.jpg,"['Leche', 'mantequilla', 'soja', 'avellana', 'leche', 'frutos de cáscara']"
+Congelados,"Helados, postres y nata",Intense Dark helado de chocolate con cobertura de chocolate negro sin gluten 70% 6 unids.,00118953907112____6__600x600.jpg,"['Leche', 'mantequilla', 'soja', 'leche', 'frutos de cáscara']"
+Congelados,"Helados, postres y nata",White helado de vainilla con chocolate blanco sin gluten 3 unidades,00118953905264____2__600x600.jpg,"['mantequilla', 'leche', 'Leche']"
+Congelados,"Helados, postres y nata",After Dinner Classic  helado de vainilla con chocolate sin gluten 10 unidades,00118953900695____1__600x600.jpg,"['mantequilla', 'leche', 'soja', 'Leche']"
+Congelados,"Helados, postres y nata",helados con doble cobertura de chocolate y frambuesa sin gluten 3 unidades,00118953906650____6__600x600.jpg,"['mantequilla', 'leche', 'Leche']"
+Congelados,"Helados, postres y nata",Intense Dark helado de chocolate con cobertura de chocolate negro sin gluten 70% 3 unids.,00118953906668____6__600x600.jpg,"['mantequilla', 'soja', 'Leche', 'leche']"
+Congelados,"Helados, postres y nata",bombón helado almendrado 4 unidades sin gluten,00118953907021____1__600x600.jpg,"['Leche', 'láctea', 'almendras', 'soja', 'lácteo', 'leche']"
+Congelados,"Helados, postres y nata",bombón helado de chocolate blanco sin gluten 4 unidades,00118953907047____1__600x600.jpg,"['lácteo', 'leche', 'soja', 'Leche']"
+Congelados,"Helados, postres y nata",bombón helado de chocolate negro sin gluten 4 unidades,00118953907039____1__600x600.jpg,"['Leche', 'láctea', 'soja', 'lácteo', 'leche']"
+Congelados,"Helados, postres y nata",minibombón helado sabor a vainilla almendrado sin gluten 9 unidades,00118953907013____1__600x600.jpg,"['Leche', 'láctea', 'almendras', 'soja', 'lácteo', 'leche']"
+Congelados,"Helados, postres y nata",minibombón helado surtido sin gluten 9 unidades,00118953907054____1__600x600.jpg,"['Leche', 'láctea', 'almendras', 'soja', 'leche']"
+Congelados,"Helados, postres y nata",bombón helado de cookie y crema con cobertura de chocolate 3x80 ml,00118953907161____6__600x600.jpg,"['nata', 'soja', 'huevo', 'leche', 'trigo']"
+Congelados,"Helados, postres y nata",bombón helado de crema de cacahuete con trozos y cobertura de chocolate 3x80 ml,00118953907153____6__600x600.jpg,"['nata', 'soja', 'huevo', 'cacahuetes', 'leche']"
+Congelados,"Helados, postres y nata",bombón helado de chocolate con almendras 3x80 ml,00118953906130____3__600x600.jpg,"['mantequilla', 'nata', 'almendras', 'soja', 'huevo', 'leche']"
+Congelados,"Helados, postres y nata",bombón helado de nuez de macadamia 3x80 ml,00118953906114____3__600x600.jpg,"['mantequilla', 'nata', 'soja', 'nueces de macadamia', 'huevo', 'leche']"
+Congelados,"Helados, postres y nata",bombón helado de vainilla con caramelo y almendras 3x80 ml,00118953906122____3__600x600.jpg,"['mantequilla', 'nata', 'soja', 'huevo', 'leche']"
+Congelados,"Helados, postres y nata",mini bombón helado de chocolate con almendras y vainilla caramelo y chocolate5 unidades,00118953906577____6__600x600.jpg,"['mantequilla', 'nata', 'almendras', 'soja', 'huevo', 'leche']"
+Congelados,"Helados, postres y nata",mini bombón helado de chocolate con almendras y vainilla y caramelo 5 unidades,00118953906569____6__600x600.jpg,"['mantequilla', 'nata', 'soja', 'huevo', 'leche']"
+Congelados,"Helados, postres y nata",mini bombón helado de caramelo salado 3 unidades y nuez de macadamia 2 unidades,00118953907138____6__600x600.jpg,"['polvo', 'mantequilla', 'nata', 'soja', 'nueces de macadamia', 'huevo', 'leche']"
+Congelados,"Helados, postres y nata",minibombón almendrado de helado de vainilla sin azúcares añadidos 6 unidades,00118953904150____3__600x600.jpg,"['lácteos', 'Leche', 'frutos secos', 'almendras', 'soja', 'gluten']"
+Congelados,"Helados, postres y nata",bombón helado de vainilla con chocolate almendrado sin gluten 3 unidades,00118953903806____1__600x600.jpg,"['Leche', 'láctea', 'frutos secos', 'almendras', 'soja', 'leche']"
+Congelados,"Helados, postres y nata",bombón helado de vainilla con chocolate almendrado relleno de cacao sin gluten 4 unidades,00118953905553____3__600x600.jpg,"['almendra', 'Leche', 'mantequilla', 'frutos secos', 'leche']"
+Congelados,"Helados, postres y nata",minibombón helado de vainilla con chocolate almendrado sin gluten 6 unidades + 2 gratis,00118953906635____1__600x600.jpg,"['Leche', 'láctea', 'frutos secos', 'almendras', 'soja', 'leche']"
+Congelados,"Helados, postres y nata",bombón helado de nata y trozos de galleta Oreo 4 unidades,00118953905538____2__600x600.jpg,"['Leche', 'soja', 'cacahuete', 'huevo', 'leche', 'trigo', 'frutos de cáscara']"
+Congelados,"Helados, postres y nata",Movie Time 3 mini Magnum y 3 mini Cornetto clásicos,00118953907344____1__600x600.jpg,"['Leche', 'mantequilla', 'nata', 'soja', 'huevo', 'avellana', 'cacahuetes', 'leche', 'trigo', 'frutos de cáscara']"
+Congelados,"Helados, postres y nata",bombón helado con cobertura crujiente sabor Toblerone 4 unidades,00118953905835____3__600x600.jpg,"['Leche', 'mantequilla', 'lactosa', 'almendras', 'soja', 'cacahuete', 'huevo', 'gluten', 'lácteo', 'leche', 'frutos de cáscara']"
+Congelados,"Helados, postres y nata",bombón almendrado relleno de vainilla y caramelo,00118953906817____6__600x600.jpg,"['mantequilla', 'almendras', 'soja', 'huevo', 'cacahuetes', 'gluten', 'leche', 'frutos de cáscara']"
+Congelados,"Helados, postres y nata",bombon helado con crujiente chocolate 4 unidades,00118953906288____3__600x600.jpg,"['avena', 'avellanas', 'nata', 'soja', 'cacahuete', 'huevo', 'leche', 'trigo', 'frutos de cáscara']"
+Congelados,"Helados, postres y nata",bombones chocolate y vainilla 4 unidades,00118953905520____2__600x600.jpg,"['soja', 'cacahuete', 'huevo', 'gluten', 'leche', 'frutos de cáscara']"
+Congelados,"Helados, postres y nata",mini bombon helado de chocolate y vainilla 3 unidades y con avellanas 3 unidades,0118953905546000g01011.jpg,"['avellanas', 'frutos secos', 'soja', 'cacahuete', 'huevo', 'gluten', 'leche']"
+Congelados,"Helados, postres y nata",Classico conos de helado de nata 6 unidades,00118953907286____1__600x600.jpg,"['Leche', 'avellanas', 'mantequilla', 'nata', 'soja', 'huevo', 'leche', 'trigo']"
+Congelados,"Helados, postres y nata",conos de helado de chocolate 6 unidades,00118953907294____1__600x600.jpg,"['Leche', 'mantequilla', 'nata', 'soja', 'leche', 'trigo']"
+Congelados,"Helados, postres y nata",VAINILLA 6 CORNETTO,00118953907278____1__600x600.jpg,"['Leche', 'mantequilla', 'nata', 'soja', 'leche', 'trigo']"
+Congelados,"Helados, postres y nata",Disc Mini conos de helado con cobertura de galleta sabor cacao y avellanas,00118953907310____1__600x600.jpg,"['Leche', 'avellanas', 'mantequilla', 'soja', 'huevo', 'cacahuetes', 'avellana', 'leche', 'trigo', 'frutos de cáscara']"
+Congelados,"Helados, postres y nata",mini surtido de conos de helado varios sabores 6 unidades,00118953905363____2__600x600.jpg,"['Leche', 'mantequilla', 'frutos secos', 'nata', 'soja', 'huevo', 'avellana', 'cacahuetes', 'leche', 'trigo']"
+Congelados,"Helados, postres y nata",mini conos de helado classico 6 unidades,00118953905389____2__600x600.jpg,"['Puede contener soja, otros frutos secos y cacahuetes.', 'Leche', 'mantequilla', 'nata', 'huevo', 'avellana', 'leche', 'trigo']"
+Congelados,"Helados, postres y nata",mini conos de helado sabor chocolate 6 unidades,00118953905785____3__600x600.jpg,"['leche', 'trigo', 'Leche', 'Puede contener huevo, soja, frutos secos y cacahuetes.']"
+Congelados,"Helados, postres y nata",conos de helado sabor a nata y fresa 6 unidades,00118953906437____1__600x600.jpg,"['leche', 'soja', 'trigo']"
+Congelados,"Helados, postres y nata",conos de helado sabor a vainilla sin azúcares añadidos 6 unidades,00118953906445____1__600x600.jpg,"['almendra', 'leche', 'soja', 'trigo']"
+Congelados,"Helados, postres y nata",conos de helado sabor chocolate 6 unidades,00118953906486____1__600x600.jpg,"['almendra', 'Leche', 'soja', 'leche', 'trigo']"
+Congelados,"Helados, postres y nata",conos de helado sabor nata y chocolate 6 unidades,00118953906429____1__600x600.jpg,"['avellanas', 'soja', 'avellana', 'leche', 'trigo']"
+Congelados,"Helados, postres y nata",miniconos de helados sabor nata y chocolate,00118953906999____1__600x600.jpg,"['almendra', 'Leche', 'soja', 'leche', 'trigo']"
+Congelados,"Helados, postres y nata",mini conos de helado sin azúcares añadidos sabor vainilla y chocolate 6 unidades,00118953905637____3__600x600.jpg,"['Leche', 'frutos secos', 'soja', 'leche', 'trigo']"
+Congelados,"Helados, postres y nata",Extreme mini conos de helado de avellana y chocolate y doble chocolate 6 unidades,00118953907393____7__600x600.jpg,"['Leche', 'Soja', 'frutos secos', 'soja', 'huevo', 'avellana', 'leche', 'trigo']"
+Congelados,"Helados, postres y nata",cono de helado de tres chocolates con espirales de chocolate 4 unidades,00118953907351____1__600x600.jpg,"['Leche', 'frutos secos', 'soja', 'huevo', 'leche', 'trigo']"
+Congelados,"Helados, postres y nata",cono de helado doble vainilla 4 unidades,00118953907369____1__600x600.jpg,"['almendra', 'Leche', 'frutos secos', 'soja', 'trigo']"
+Congelados,"Helados, postres y nata",Chocolate Absolut cono con helado de chocolate y láminas de chocolate negro 4 unidades,00118953904127____3__600x600.jpg,"['láctea', 'frutos secos', 'soja', 'huevo', 'leche', 'trigo']"
+Congelados,"Helados, postres y nata",nata y frutos rojos con espiral de sirope 4 unidades,00118953905736____3__600x600.jpg,"['Leche', 'láctea', 'frutos secos', 'soja', 'huevo', 'leche', 'trigo']"
+Congelados,"Helados, postres y nata",Mini cono de helado de chocolate 6 unidades,00118953906254____3__600x600.jpg,"['láctea', 'frutos secos', 'soja', 'huevo', 'leche', 'trigo']"
+Congelados,"Helados, postres y nata",Mini conos de helado de frutos del bosque y chocolate 6 unidades,00118953906270____3__600x600.jpg,"['láctea', 'frutos secos', 'soja', 'huevo', 'leche', 'trigo']"
+Congelados,"Helados, postres y nata",conos de helado de chocolate y vainilla 4 uds,00118953904721____2__600x600.jpg,"['Leche', 'avellanas', 'nata', 'soja', 'cacahuete', 'huevo', 'lácteo', 'leche', 'trigo', 'frutos de cáscara']"
+Congelados,"Helados, postres y nata",mini conos de helado de vainilla y chocolate 8 unidades,00118953904739____1__600x600.jpg,"['avellanas', 'nata', 'soja', 'cacahuete', 'huevo', 'leche', 'trigo', 'frutos de cáscara']"
+Congelados,"Helados, postres y nata",conos de helado de chocolate y nata con trozos de galleta 4 unidades,00118953905512____2__600x600.jpg,"['Leche', 'soja', 'cacahuete', 'huevo', 'leche', 'trigo', 'frutos de cáscara']"
+Congelados,"Helados, postres y nata",Go! sándwich de nata y trocitos de galleta al cacao entre galletas de chocolate 4 unidades,00118953907328____1__600x600.jpg,"['Leche', 'mantequilla', 'soja', 'huevo', 'cacahuetes', 'leche', 'trigo', 'frutos de cáscara']"
+Congelados,"Helados, postres y nata",sándwich de helado de vainilla y chocolate 6 unidades,00118953906460____3__600x600.jpg,"['leche', 'trigo', 'huevo', 'Leche']"
+Congelados,"Helados, postres y nata",sándwich de helado sabor a nata 6 unidades,00118953906478____1__600x600.jpg,"['leche', 'trigo', 'huevo', 'Leche']"
+Congelados,"Helados, postres y nata",sándwich de helado sabor a nata sin azúcares añadidos 6 unidades,00118953906452____3__600x600.jpg,"['leche', 'trigo', 'Leche']"
+Congelados,"Helados, postres y nata",Supersándwich helado de stracciatella con cobertura de galleta y chocolate 4 unidades,00118953906494____1__600x600.jpg,"['almendra', 'Leche', 'mantequilla', 'lactosa', 'soja', 'cebada', 'leche', 'trigo']"
+Congelados,"Helados, postres y nata",Supersándwich helado de vainilla y cobertura de chocolate 4 unidades,00118953906825____1__600x600.jpg,"['almendra', 'mantequilla', 'lactosa', 'soja', 'huevo', 'leche', 'trigo']"
+Congelados,"Helados, postres y nata",minisándwich helado sabor stracciatela 6 unidades,00118953906981____1__600x600.jpg,"['almendra', 'mantequilla', 'lactosa', 'soja', 'cebada', 'leche', 'trigo']"
+Congelados,"Helados, postres y nata",Cream Crisp sándwich helado de caramelo con galleta de barquillo 3 unidades,00118953901073____1__600x600.jpg,"['mantequilla', 'soja', 'huevo', 'Nata', 'leche', 'trigo']"
+Congelados,"Helados, postres y nata",sándwich de galleta con helado de vainilla y chocolate 6 unidades,00118953904390____1__600x600.jpg,"['metabisulfito', 'Leche', 'frutos secos', 'soja', 'huevo', 'leche', 'trigo']"
+Congelados,"Helados, postres y nata",sándwich de galleta con helado de nata 6 unidades,00118953904382____1__600x600.jpg,"['metabisulfito', 'Leche', 'frutos secos', 'huevo', 'leche', 'trigo']"
+Congelados,"Helados, postres y nata",Cookie sándwich de galleta con helado de vainilla y trocitos de chocolate 4 unidades,00201153904378____1__600x600.jpg,"['Leche', 'mantequilla', 'soja', 'huevo', 'cebada', 'avellana', 'leche', 'trigo', 'frutos de cáscara']"
+Congelados,"Helados, postres y nata",Cookie mini sándwich de galleta con helado de vainilla y trocitos de chocolate 6 unidades,00118953907435____1__600x600.jpg,"['Leche', 'mantequilla', 'soja', 'huevo', 'cebada', 'avellana', 'leche', 'trigo', 'frutos de cáscara']"
+Congelados,"Helados, postres y nata",Nata sándwich de helado de nata y trocitos de chocolate,00118953906783____1__600x600.jpg,"['Leche', 'avellanas', 'frutos secos', 'soja', 'huevo', 'cebada', 'avellana', 'gluten', 'leche', 'trigo']"
+Congelados,"Helados, postres y nata",mini sándwich con helado de nata galleta y trocitos de chocolate 6 unidades,00118953900133____1__600x600.jpg,"['Leche', 'frutos secos', 'soja', 'huevo', 'cebada', 'avellana', 'leche', 'trigo']"
+Congelados,"Helados, postres y nata",sándwich helado de galleta oreo 6 unidades,00118953905843____1__600x600.jpg,"['nata', 'soja', 'cacahuete', 'huevo', 'leche', 'trigo', 'frutos de cáscara']"
+Congelados,"Helados, postres y nata",Cookie Black mini sándwich de galleta con helado chocolate y trocitos de chocolate,00118953907443____1__600x600.jpg,"['Leche', 'mantequilla', 'soja', 'huevo', 'cebada', 'avellana', 'leche', 'trigo', 'frutos de cáscara']"
+Congelados,"Helados, postres y nata",Happy Mix surtido de polos infantiles 7 unidades,00118954100642____3__600x600.jpg,"['Leche', 'frutos secos', 'láctea', 'soja', 'cacahuete', 'huevo', 'gluten', 'leche', 'trigo']"
+Congelados,"Helados, postres y nata","Chuches helados sabor nubes, coca cola, ladrillos y moras sin gluten",00118954100881____1__600x600.jpg,"['leche', 'soja', 'frutos de cáscara']"
+Congelados,"Helados, postres y nata",Push Up helado de vainilla con mina de chocolate sin gluten 6 unidades,00118954100030____3__600x600.jpg,"['Leche', 'mantequilla', 'frutos secos', 'soja', 'leche']"
+Congelados,"Helados, postres y nata",helado sabor fresa 3 unidades y sabor limón 3 unidades,00118954100873____2__600x600.jpg,[]
+Congelados,"Helados, postres y nata",Happy helado de zumo de frutas sin gluten 5 unidades,00118954100279____2__600x600.jpg,['leche']
+Congelados,"Helados, postres y nata",Fantasmikos helados con sabores variados a frutas 15 unidades,00118954100022____4__600x600.jpg,"['leche', 'frutos secos']"
+Congelados,"Helados, postres y nata",helado con sabor marshmallow sin gluten 4 unidades,00118954100907____1__600x600.jpg,"['leche', 'huevo', 'frutos secos', 'Leche']"
+Congelados,"Helados, postres y nata",Super Mix helados varios sabores sin gluten 5 unidades,00118954100444____1__600x600.jpg,"['Puede contener trazas de leche', 'Puede contener trazas de leche.']"
+Congelados,"Helados, postres y nata",mini mix sabor naranja y limón 6 unidades,00118954100675____1__600x600.jpg,['Puede contener trazas de leche']
+Congelados,"Helados, postres y nata",mini sabor lima-limón sin gluten 6 unidades,00118954100899____1__600x600.jpg,['leche']
+Congelados,"Helados, postres y nata",My Sweet Deli tarta de manzana 6 porciones,00118955801560____1__600x600.jpg,"['lacteo', 'nueces', 'avellanas', 'mantequilla', 'almendras', 'huevo', 'pacanas', 'trigo']"
+Congelados,"Helados, postres y nata",pizza de chocolate con topping de chocolates variados,00118950102576____1__600x600.jpg,"['nata', 'soja', 'lácteo', 'leche', 'trigo', 'frutos de cáscara']"
+Congelados,"Helados, postres y nata",TARTA AL WHISKY,00118934601206____1__600x600.jpg,"['Leche', 'huevo', 'lácteo', 'leche', 'trigo']"
+Congelados,"Helados, postres y nata",tarta sabor a nata con láminas al cacao,00118934601214____1__600x600.jpg,"['lácteo', 'leche', 'soja', 'Leche']"
+Congelados,"Helados, postres y nata",tarta laminada de vainilla formato XXL,00118934600968____2__600x600.jpg,"['lactosa', 'leche', 'Leche']"
+Congelados,"Helados, postres y nata",biscuit de nata y yema tostada,00118955801131____1__600x600.jpg,"['leche', 'soja', 'trigo', 'huevo']"
+Congelados,"Helados, postres y nata",tarta cremosa de chocolate,00118955801149____1__600x600.jpg,"['leche', 'soja', 'trigo', 'huevo']"
+Congelados,"Helados, postres y nata",tarta de queso fresco con arándanos,00201155801283____1__600x600.jpg,"['leche', 'soja', 'trigo', 'huevo']"
+Congelados,"Helados, postres y nata",Patisserie Tarta al whisky tarta helada de vainilla y sabor nata,00118934601131____1__600x600.jpg,"['sésamo', 'Leche', 'avellanas', 'almendras', 'soja', 'huevo', 'cacahuetes', 'leche', 'trigo', 'frutos de cáscara']"
+Congelados,"Helados, postres y nata",Patisserie Romantica tarta helada sabor caramelo,00118934601149____1__600x600.jpg,"['avena', 'sésamo', 'Leche', 'avellanas', 'mantequilla', 'soja', 'huevo', 'cacahuetes', 'leche', 'trigo', 'frutos de cáscara']"
+Congelados,"Helados, postres y nata",brazo de chocolate,00118955801032____1__600x600.jpg,"['Huevo', 'Puede contener trazas de frutos de cáscara o cacahuete. Contiene soja, huevo, leche y derivados y gluten (trigo)', 'soja', 'leche', 'trigo']"
+Congelados,"Helados, postres y nata",tarta bombón 8 raciones,00118955800992____1__600x600.jpg,"['Puede contener trazas de frutos de cáscara y/o cacahuete. Contiene leche y derivados, huevo, soja, y gluten (trigo).', 'mantequilla', 'soja', 'huevo', 'leche', 'trigo']"
+Congelados,"Helados, postres y nata",tarta de nata y trufa 8 raciones,00118955801008____1__600x600.jpg,"['lácteos', ' Puede contener trazas de frutos de cáscara y/o cacahuete. Contiene leche y derivados, huevo, soja, gluten (trigo)', 'lactosuero', 'mantequilla', 'nata', 'lactosa', 'soja', 'huevo', 'leche', 'trigo']"
+Congelados,"Helados, postres y nata",Spiderman tarta infantil de chocolate,00118955801289____6__600x600.jpg,[]
+Congelados,"Helados, postres y nata",tarta de queso cheesecake NY 6 raciones,00201155801226____1__600x600.jpg,"['Contiene gluten, trigo, huevo, soja, leche. Puede contener frutos con cáscara y sulfitos', 'TRIGO', 'MANTEQUILLA', 'HUEVO', 'NATA', 'LECHE', 'QUESO', 'SOJA']"
+Congelados,"Helados, postres y nata",carrot cake tarta de zanahoria 8 raciones,00118955801115____1__600x600.jpg,"['sulfitos', 'nata', 'Contiene gluten, huevo, leche, frutos de cáscara, sulfitos y puede contener soja y cacahuetes', 'huevo', 'leche', 'trigo']"
+Congelados,"Helados, postres y nata",tarta con galletas cheesecake 6 raciones,00118955801081____1__600x600.jpg,"['Contiene gluten, trigo, huevo, soja, leche. Puede contener frutos con cáscara y sulfitos', 'TRIGO', 'MANTEQUILLA', 'HUEVO', 'NATA', 'LECHE', 'QUESO', 'SOJA']"
+Congelados,"Helados, postres y nata",Etiqueta Negra tarta al whisky con crema y nata 10 raciones,00118934600034____1__600x600.jpg,"['Leche', 'frutos secos', 'huevo', 'leche', 'trigo']"
+Congelados,"Helados, postres y nata",tarta Selva Negra sabor chocolate y trufa,00118955800901____1__600x600.jpg,"['mazada', 'láctea', 'nata', 'soja', 'huevo', 'Contiene gluten, huevo, leche, soja y puede contener frutos de cáscara, cacahuetes y sulfitos', 'leche', 'trigo']"
+Congelados,"Helados, postres y nata",bloque de helado tres sabores nata vainilla y chocolate,00118933200356____1__600x600.jpg,"['leche', 'Leche']"
+Congelados,"Helados, postres y nata",bloque de helado sabor nata,00118933200331____2__600x600.jpg,"['leche', 'Leche']"
+Congelados,"Helados, postres y nata",bloque de helado sabor nata y fresa,00118933200349____1__600x600.jpg,"['leche', 'Leche']"
+Congelados,"Helados, postres y nata",bloque de helado de turrón,00118933200364____1__600x600.jpg,"['almendra', 'leche', 'huevo', 'Leche']"
+Congelados,"Helados, postres y nata","bloque de helado tres gustos vainilla, chocolate y nata",00118933200299____2__600x600.jpg,"['Leche', 'frutos secos', 'soja', 'huevo', 'leche', 'trigo']"
+Congelados,"Helados, postres y nata",cubitos de hielo,00118932700851____1__600x600.jpg,[]
+Congelados,"Helados, postres y nata",hielo en escamitas para mojitos,00118932700869____1__600x600.jpg,[]
+Congelados,Pan y repostería congelada,baguetinas 4 unidades,00118936500208____2__600x600.jpg,"['sésamo', 'sulfitos', 'leche', 'trazas de alérgenos', 'soja', 'trazas', 'huevo', 'pescado', 'gluten', 'trigo', 'frutos de cáscara']"
+Congelados,Pan y repostería congelada,chapatas 2x160g,0118936500448000g01011.jpg,"['sésamo', 'centeno', 'leche', 'soja', 'huevo', 'gluten', 'trigo', 'frutos de cáscara']"
+Congelados,Pan y repostería congelada,pan de queso sin gluten16 unidades aprox.,0118936500463000g01011.jpg,"['HUEVO LIQUIDO,LECHE,QUESO 13%,']"
+Congelados,Pan y repostería congelada,masa de hojaldre extendida,00118936500489____3__600x600.jpg,['trigo']
+Congelados,Pan y repostería congelada,porras prefritas,0118936500539000g01011.jpg,"['sésamo', 'moluscos', 'Crustáceos', 'leche', 'soja', 'apio', 'huevo', 'pescado', 'mostaza', 'gluten', 'trigo', 'frutos de cáscara']"
+Congelados,Pan y repostería congelada,churros artesanos lazo,00118936500497____2__600x600.jpg,"['crustáceos', 'moluscos', 'trazas de alérgenos', 'soja', 'apio', 'huevo', 'pescado', 'gluten', 'mostaza', 'leche', 'trigo', 'frutos de cáscara']"
+Congelados,Pan y repostería congelada,churros lazo,00118936500687____2__600x600.jpg,['trigo']
+Congelados,Pan y repostería congelada,churros crujientes,00118936500653____2__600x600.jpg,"['soja', 'trigo', 'huevo', 'sésamo']"
+Congelados,"Pescados, mariscos y surimis",rollito de mar porcionable sin gluten y sin lactosa,00118940700018____2__600x600.jpg,"['crustáceos', 'moluscos', 'soja', 'huevo', 'pescado']"
+Congelados,"Pescados, mariscos y surimis",anguriñas pack 2x100 g sin gluten y sin lactosa,00118940700216____2__600x600.jpg,"['crustáceos', 'moluscos', 'soja', 'huevo', 'pescado']"
+Congelados,"Pescados, mariscos y surimis",anguriñas pack 2x90 g reducidas en sal sin gluten,00118940700802____2__600x600.jpg,"['crustáceos', 'moluscos', 'soja', 'huevo', 'pescado']"
+Congelados,"Pescados, mariscos y surimis",pack familiar 6 raciones,00118940700604____1__600x600.jpg,"['crustáceos', 'molusco', 'soja', 'huevo', 'pescado', 'leche', 'trigo']"
+Congelados,"Pescados, mariscos y surimis",La Auténtica 2 raciones individuales de 215 g,00118940700745____6__600x600.jpg,"['crustáceos', 'molusco', 'soja', 'huevo', 'pescado', 'leche', 'trigo']"
+Congelados,"Pescados, mariscos y surimis",La Auténtica 2 raciones individuales de 100 g.,0118940700513000g01011.jpg,"['crustáceos', 'molusco', 'soja', 'huevo', 'pescado', 'leche', 'trigo']"
+Congelados,"Pescados, mariscos y surimis",al ajillo con gambas pack 2 raciones 125 g,00118940700653____1__600x600.jpg,"['sulfitos', 'molusco', 'soja', 'crustáceo', 'huevo', 'pescado', 'leche', 'trigo']"
+Congelados,"Pescados, mariscos y surimis",al ajillo pack 2 raciones de 125 g,00118940700646____2__600x600.jpg,"['crustáceos', 'molusco', 'soja', 'huevo', 'pescado', 'leche', 'trigo']"
+Congelados,"Pescados, mariscos y surimis",palitos de mar,00118940700836____2__600x600.jpg,"['moluscos', 'crustáceo', 'huevo', 'pescado']"
+Congelados,"Pescados, mariscos y surimis",palitos de surimi,00118940700521____1__600x600.jpg,"['soja', 'huevo', 'pescado', 'trigo', 'cangrejo']"
+Congelados,"Pescados, mariscos y surimis",guinas de Aguinaga pack individual 2x125,00118940700463____1__600x600.jpg,"['molusco', 'soja', 'huevo', 'pescado', 'leche', 'trigo']"
+Congelados,"Pescados, mariscos y surimis",tronquitos de Alaska sabor cangrejo,00118940700075____1__600x600.jpg,"['crustáceos', 'soja', 'huevo', 'pescado', 'trigo']"
+Congelados,"Pescados, mariscos y surimis",colas de mar sabor langosta,00118940700612____1__600x600.jpg,"[' trigo', 'pescado, crustáceos, gluten, huevo y soja.', 'soja', 'langosta', 'pescado']"
+Congelados,"Pescados, mariscos y surimis",calamar entero,00118911001636____1__600x600.jpg,['Calamar']
+Congelados,"Pescados, mariscos y surimis",calamar limpio,0118911001107000g01011.jpg,['Calamar']
+Congelados,"Pescados, mariscos y surimis",chipirón troceado,00118911000265____1__600x600.jpg,['Calamar']
+Congelados,"Pescados, mariscos y surimis",sepia limpia,0118911001099000g01011.jpg,['Sepia']
+Congelados,"Pescados, mariscos y surimis",sepia limpia,00118911001412____2__600x600.jpg,['Sepia']
+Congelados,"Pescados, mariscos y surimis",anillas de pota,00118911002279____6__600x600.jpg,"['metabisulfito', 'Pota Argentina', 'Volador']"
+Congelados,"Pescados, mariscos y surimis",lágrimas de tinta de sepia 8 unidades,00118911001628____1__600x600.jpg,"['Sepia', 'puede contener trazas de crustáceos, pescados, apio y leche.']"
+Congelados,"Pescados, mariscos y surimis",calamar troceado,00118911002006____3__600x600.jpg,[]
+Congelados,"Pescados, mariscos y surimis",gamba pelada 50-55 piezas,00118939400778____7__600x600.jpg,"['Gamba', 'metabisulfito']"
+Congelados,"Pescados, mariscos y surimis",gamba pelada 35/40 piezas,00118939400794____6__600x600.jpg,"['Gamba', 'metabisulfito']"
+Congelados,"Pescados, mariscos y surimis",gamba blanca cruda 100-120 piezas,00118939400786____6__600x600.jpg,[]
+Congelados,"Pescados, mariscos y surimis",gamba blanca cruda 50-60 piezas,00118939400554____2__600x600.jpg,[]
+Congelados,"Pescados, mariscos y surimis",gamba de Huelva cocida 50-60 piezas,00118939400604____1__600x600.jpg,"['Gamba', 'metabisulfito ']"
+Congelados,"Pescados, mariscos y surimis",gamba blanca cruda 70/100 piezas,00118939400646____2__600x600.jpg,"['Gamba', 'metabisulfito']"
+Congelados,"Pescados, mariscos y surimis",gamba pelada 60-80 piezas,00118939400687____7__600x600.jpg,['METABISULFITO']
+Congelados,"Pescados, mariscos y surimis",gamba pelada 80-100 piezas,00118939400679____7__600x600.jpg,['SULFITOS']
+Congelados,"Pescados, mariscos y surimis",gamba pelada 60-77 piezas,00118939400059____7__600x600.jpg,"['metabisulfito', 'Gambas']"
+Congelados,"Pescados, mariscos y surimis",gamba roja pelada,00118939400356____2__600x600.jpg,"['Gamba roja', 'sulfitos']"
+Congelados,"Pescados, mariscos y surimis",gambas peladas,00118939400612____2__600x600.jpg,"['Gambas', 'sulfitos']"
+Congelados,"Pescados, mariscos y surimis",gamba cruda salvaje,00118939400885____2__600x600.jpg,"['Gamba', 'moluscos', 'pescado', 'sulfitos']"
+Congelados,"Pescados, mariscos y surimis",gamba cocida salvaje  80/100 piezas,00118939400893____2__600x600.jpg,"['Gamba', 'moluscos', 'pescado', 'sulfitos']"
+Congelados,"Pescados, mariscos y surimis",gamba salvaje pelada cruda 53-88 piezas,00118939400711____2__600x600.jpg,"['SULFITOS', 'GAMBAS PELADAS']"
+Congelados,"Pescados, mariscos y surimis",langostino salvaje cocido 40-60 piezas,00118938900174____1__600x600.jpg,"['metabisulfito', 'Langostinos']"
+Congelados,"Pescados, mariscos y surimis",langostino salvaje cocido 30-40 piezas,00118938900166____1__600x600.jpg,"['metabisulfito', 'Langostinos']"
+Congelados,"Pescados, mariscos y surimis",langostino salvaje cocido 20-25 piezas,00118938900307____1__600x600.jpg,"['metabisulfito', 'Langostinos']"
+Congelados,"Pescados, mariscos y surimis",langostino crudo 48/64 piezas,00118938902030____7__600x600.jpg,"['metabisulfito', 'Langostinos']"
+Congelados,"Pescados, mariscos y surimis",langostinos cocidos 48/64 piezas,00118938902022____6__600x600.jpg,"['metabisulfito', 'Langostinos']"
+Congelados,"Pescados, mariscos y surimis",langostino cocido 43-48 piezas,00118938900604____13__600x600.jpg,"['metabisulfito', 'Langostinos']"
+Congelados,"Pescados, mariscos y surimis",langostino crudo 43-48 piezas,00118938900596____13__600x600.jpg,"['metabisulfito', 'Langostinos']"
+Congelados,"Pescados, mariscos y surimis",langostino salvaje crudo 33-48 piezas,00118938900158____1__600x600.jpg,"['metabisulfito', 'Langostinos']"
+Congelados,"Pescados, mariscos y surimis",langostino salvaje crudo 24-32 piezas,00118938900141____1__600x600.jpg,"['metabisulfito', 'Langostinos']"
+Congelados,"Pescados, mariscos y surimis",langostino salvaje crudo 10-15 piezas,00118938900299____1__600x600.jpg,"['metabisulfito', 'Langostinos']"
+Congelados,"Pescados, mariscos y surimis",gambón crudo 12-16 piezas,00118938902097____1__600x600.jpg,"['metabisulfito', 'Gambón']"
+Congelados,"Pescados, mariscos y surimis",gambón salvaje crudo especial plancha 20/30 piezas,00118938902410____1__600x600.jpg,"['metabisulfito', 'Gambón']"
+Congelados,"Pescados, mariscos y surimis",langostino blanco crudo pelado,00118938901933____2__600x600.jpg,"['metabisulfito', 'Langostino']"
+Congelados,"Pescados, mariscos y surimis",langostino cocido pelado grande,00118938901479____2__600x600.jpg,"['Metabisulfito', 'Langostino ']"
+Congelados,"Pescados, mariscos y surimis",gambón argentino crudo especial plancha 20-30 piezas,00118938901107____1__600x600.jpg,"['metabisulfito', 'Gambón', 'Contiene sulfitos.']"
+Congelados,"Pescados, mariscos y surimis",gambón cocido 15-25 piezas,00118938901917____2__600x600.jpg,[]
+Congelados,"Pescados, mariscos y surimis",gambón pelado cocido 20-30 piezas,00118938902014____2__600x600.jpg,[]
+Congelados,"Pescados, mariscos y surimis",gambón austral pelado crudo,00118938901024____2__600x600.jpg,"['metabisulfito', 'Gambon']"
+Congelados,"Pescados, mariscos y surimis",gambón salvaje crudo 12/16 piezas,00118938902535____2__600x600.jpg,"['Gambón', 'sulfitos']"
+Congelados,"Pescados, mariscos y surimis",langostino austral gigante crudo especial plancha 16-24 piezas,00118938901909____4__600x600.jpg,"['Gambón', 'sulfitos']"
+Congelados,"Pescados, mariscos y surimis",langostino banana salvaje selección 20-30 piezas,00118938901438____3__600x600.jpg,"['Langostino', 'sulfitos']"
+Congelados,"Pescados, mariscos y surimis",langostino tigre extra cocido 24-32 piezas,00118938901420____1__600x600.jpg,"['Langostino', 'sulfitos']"
+Congelados,"Pescados, mariscos y surimis",langostino tigre salvaje selección 20-30 piezas,00118938901412____2__600x600.jpg,"['Langostino', 'sulfitos']"
+Congelados,"Pescados, mariscos y surimis",gambón pelado,00118938901990____3__600x600.jpg,"['Gambón', 'moluscos', 'pescado', 'sulfitos']"
+Congelados,"Pescados, mariscos y surimis",langostino tigre pelado crudo grande,00118938902477____1__600x600.jpg,"['Langostino', 'moluscos', 'pescado', 'sulfitos']"
+Congelados,"Pescados, mariscos y surimis",langostino vannamei crudo extra 24-40 piezas,00118938900950____4__600x600.jpg,"['Pescado', 'Langostino', 'moluscos', 'sulfitos']"
+Congelados,"Pescados, mariscos y surimis",gambón para horno listo en 15 minutos,00118938901784____5__600x600.jpg,"['Gambón', 'sulfitos']"
+Congelados,"Pescados, mariscos y surimis",langostino vannamei cocido extra 24-40 piezas,00118938900968____5__600x600.jpg,"['Langostino', 'moluscos', 'pescado', 'sulfitos']"
+Congelados,"Pescados, mariscos y surimis",langostinos crudo bio ecológico 40-48 piezas,00118938902089____7__600x600.jpg,"['Langostino', 'sulfitos']"
+Congelados,"Pescados, mariscos y surimis",gambón crudo 14-21 piezas sin gluten,00118938901925____2__600x600.jpg,"['SULFITOS', 'LANGOSTINO ARGENTINO']"
+Congelados,"Pescados, mariscos y surimis",almeja del pacífico 18-27 unidades,00118911002147____1__600x600.jpg,['molusco']
+Congelados,"Pescados, mariscos y surimis",carne de vieira con coral,00118911002212____6__600x600.jpg,['Vieira']
+Congelados,"Pescados, mariscos y surimis",carne de zamburiña limpia 40-60 piezas,00118911001677____1__600x600.jpg,['Carne de zamburiña (Chlamys varia)']
+Congelados,"Pescados, mariscos y surimis",buey de mar cocido,00118911001321____6__600x600.jpg,['Buey de mar']
+Congelados,"Pescados, mariscos y surimis",carne de mejillón natural,00118911001263____1__600x600.jpg,['mejillón']
+Congelados,"Pescados, mariscos y surimis",cigalas crudas 13-16 piezas,00118911000943____3__600x600.jpg,"['metabisulfito', 'Contiene sulfitos.', 'Cigala']"
+Congelados,"Pescados, mariscos y surimis",cigalas crudas 17-20 piezas,00118911001305____1__600x600.jpg,"['metabisulfito', 'Cigala', 'Contiene ']"
+Congelados,"Pescados, mariscos y surimis",nécora cruda 5/8 piezas,00118911001925____1__600x600.jpg,['Nécora']
+Congelados,"Pescados, mariscos y surimis",bocas y pechos de cangrejo cocido,00118911001693____1__600x600.jpg,[]
+Congelados,"Pescados, mariscos y surimis",carabinero 5-8 piezas,00118911000984____6__600x600.jpg,"['metabisulfito', 'pescado y moluscos.', 'Carabinero']"
+Congelados,"Pescados, mariscos y surimis",preparado de mariscos para paella añadir arroz y listo 2 raciones,00118947400190____2__600x600.jpg,"['crustáceos', 'Huevo', 'moluscos', 'sulfitos', 'almejas del Pacífico', 'Leche', 'mejillón', 'almejas blancas', 'apio', 'pescado', 'langostino', 'pota']"
+Congelados,"Pescados, mariscos y surimis",buey de mar cocido,00118911000117____1__600x600.jpg,['Buey de mar']
+Congelados,"Pescados, mariscos y surimis",carne de vieira,00118911000521____2__600x600.jpg,['Vieira']
+Congelados,"Pescados, mariscos y surimis",vieira media concha,00118911001123____2__600x600.jpg,['Vieira']
+Congelados,"Pescados, mariscos y surimis",vieira rellena con gambas,00118946900281____1__600x600.jpg,"['sulfitos', 'Leche', 'molusco', 'pan', 'leche', 'crustáceo', 'gamba', 'buey', 'gluten', 'pescado', 'vieira', 'trigo']"
+Congelados,"Pescados, mariscos y surimis",preparado de mariscos para paella tradicional sin gluten 2 raciones,00118947400158____1__600x600.jpg,"['crustáceos', 'metabisulfito sódico', 'moluscos', 'almeja', 'mejillón', 'camarón', 'pescado', 'langostino', 'leche', 'anchoa', 'pota']"
+Congelados,"Pescados, mariscos y surimis",filetes de merluza sin piel 10-20 piezas,00118937000497____4__600x600.jpg,"['Merluza', 'moluscos', 'crustáceos']"
+Congelados,"Pescados, mariscos y surimis",filetes de merluza sin piel,00118937000034____1__600x600.jpg,"['Merluza', 'moluscos', 'crustáceos']"
+Congelados,"Pescados, mariscos y surimis",filetes de merluza sin piel baby,00201137000244____1__600x600.jpg,"['Merluza', 'moluscos', 'crustáceos']"
+Congelados,"Pescados, mariscos y surimis",lomos de merluza 4-5 piezas,00118937000067____3__600x600.jpg,"['Merluza', 'moluscos', 'crustáceos']"
+Congelados,"Pescados, mariscos y surimis",corazones de filete de merluza 6 unidades,00118937000091____2__600x600.jpg,"['Merluza', 'moluscos', 'crustáceos']"
+Congelados,"Pescados, mariscos y surimis",centros de merluza 4 unidades,00118937000570____1__600x600.jpg,"['Merluza', 'moluscos', 'crustáceos']"
+Congelados,"Pescados, mariscos y surimis",medallones de filete de merluza sin piel 4-5 piezas,00118937000117____2__600x600.jpg,"['Merluza', 'moluscos', 'crustáceos']"
+Congelados,"Pescados, mariscos y surimis",ventresca de merluza,00118937000109____1__600x600.jpg,"['Merluza', 'moluscos', 'crustáceos']"
+Congelados,"Pescados, mariscos y surimis",lomos y centros de merluza del Cabo 4-5 piezas,0118937000455000g01011.jpg,[]
+Congelados,"Pescados, mariscos y surimis",filete de merluza del Cabo sin piel 4-7 piezas,00118937000562____1__600x600.jpg,['Merluza']
+Congelados,"Pescados, mariscos y surimis",cocochas de merluza,00118937000018____1__600x600.jpg,['Cocochas de merluza']
+Congelados,"Pescados, mariscos y surimis",filetes de merluza del Cabo sin piel crudos,00118937000588____2__600x600.jpg,['Filetes de merluza']
+Congelados,"Pescados, mariscos y surimis",rodajas de merluza de cola azul,00118937000612____6__600x600.jpg,"['moluscos, crustáceus y sulfitos.', 'Merluza']"
+Congelados,"Pescados, mariscos y surimis",solomillo de bacalao,00118910500711____3__600x600.jpg,['Bacalao']
+Congelados,"Pescados, mariscos y surimis",filetes de bacalao en trozos,0118910500067000g01011.jpg,"['Bacalao', 'moluscos', 'crustáceos']"
+Congelados,"Pescados, mariscos y surimis",lomos de bacalao en su punto de sal,00118910500190____3__600x600.jpg,['Bacalao']
+Congelados,"Pescados, mariscos y surimis",supremas de bacalao fresco sin salar 2/3 unidades,00118910501743____1__600x600.jpg,"['Bacalao', 'moluscos', 'crustáceos']"
+Congelados,"Pescados, mariscos y surimis",filete de rape,00118910500042____1__600x600.jpg,"['crustáceos', 'Rape', 'moluscos']"
+Congelados,"Pescados, mariscos y surimis",migas de bacalao en su punto de sal,00118910501735____1__600x600.jpg,"['Bacalao', 'moluscos', 'crustáceos']"
+Congelados,"Pescados, mariscos y surimis",lomos de salmón sin espinas,00118910501503____1__600x600.jpg,['Salmón']
+Congelados,"Pescados, mariscos y surimis",filetes de bacalao,00201110501572____1__600x600.jpg,['Bacalao']
+Congelados,"Pescados, mariscos y surimis",lomos extra de bacalao ultracongelado al punto de sal,00118910501149____1__600x600.jpg,['Bacalao']
+Congelados,"Pescados, mariscos y surimis",delicias de bacalao ultracongelado al punto de sal,00118910501156____1__600x600.jpg,['Bacalao']
+Congelados,"Pescados, mariscos y surimis",filetes de atún solomillos sin piel,00118910501073____2__600x600.jpg,['Atún']
+Congelados,"Pescados, mariscos y surimis",filetes de bonito del norte solomillo sin piel,00118910500752____1__600x600.jpg,['Bonito']
+Congelados,"Pescados, mariscos y surimis",filetes de abadejo de Alaska,00118910501313____2__600x600.jpg,[]
+Congelados,"Pescados, mariscos y surimis",boquerón limpio,00118910501248____2__600x600.jpg,[]
+Congelados,"Pescados, mariscos y surimis",cola de rape,00118910500943____1__600x600.jpg,['Rape']
+Congelados,"Pescados, mariscos y surimis",cocochas de bacalao crudas,00118910501552____6__600x600.jpg,"['bacalao', 'crustáceos, moluscos ', ' sulfitos.']"
+Congelados,"Pescados, mariscos y surimis",pez espada 2 piezas,00118910500968____2__600x600.jpg,['Pez espada']
+Congelados,"Pescados, mariscos y surimis",suprema de salmón de Noruega sin espinas,00118910500885____1__600x600.jpg,[]
+Congelados,"Pescados, mariscos y surimis",filetes de bacalao al punto de sal,00118910501529____7__600x600.jpg,['Bacalao']
+Congelados,"Pescados, mariscos y surimis",filetes de rape,0118910500331000g01011.jpg,['rape']
+Congelados,"Pescados, mariscos y surimis",colas de rape 3-4 piezas,0118910500802000g01011.jpg,['Rape']
+Congelados,"Pescados, mariscos y surimis",lomos de bacalao salvaje al punto de sal,00118910501511____6__600x600.jpg,['pescado']
+Congelados,"Pescados, mariscos y surimis",pulpo entero crudo,00118911001370____6__600x600.jpg,['Pulpo']
+Congelados,"Pizza, Lasaña y Canelones",Formaggi pizza 4 quesos sin gluten,00118950102303____2__600x600.jpg,"['queso', 'trigo', 'huevo']"
+Congelados,"Pizza, Lasaña y Canelones",Prosciutto pizza de jamón sin gluten,00118950102238____3__600x600.jpg,"['queso', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",Masa Fina pizza de 4 quesos,0118950101958000g01011.jpg,"['avena', 'crustáceos', 'queso', 'frutos secos', 'nata', 'soja', 'apio', 'cebada', 'pescado', 'mostaza', 'leche', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",Masa Fina pizza de jamón y queso,0118950101941000g01011.jpg,"['avena', 'crustáceos', 'queso', 'frutos secos', 'soja', 'apio', 'cebada', 'pescado', 'mostaza', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",La Pizzeria pizza de aceitunas y tomates cherry,00118950102436____1__600x600.jpg,"['leche', 'queso', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",La Pizzeria pizza de ricota de búfala y tomates cherry,00118950102428____1__600x600.jpg,"['queso', 'nata', 'ricota', 'leche', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",Pollo BBQ pizza tradicional italiana al puro estilo americano sabor pollo barbacoa,00118950102584____12__600x600.jpg,"['crustáceos', 'queso', 'frutos secos', 'soja', 'apio', 'malta', 'mostaza', 'pescado', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",Western pizza tradicional italiana al puro estilo americano sabor salami maiz y alubias,00118950102600____7__600x600.jpg,"['crustáceos', 'queso', 'frutos secos', 'soja', 'apio', 'malta', 'mostaza', 'pescado', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",pizza vegetal calabacín pimientos y aceitunas,00118950101057____1__600x600.jpg,"['crustáceos', 'queso', 'frutos secos', 'soja', 'apio', 'pescado', 'mostaza', 'leche', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",pizza de jamón y queso,00118950101032____1__600x600.jpg,"['crustáceos', 'queso', 'quesos', 'frutos secos', 'nata', 'soja', 'apio', 'pescado', 'mostaza', 'leche', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",Tonno pizza con atún en aceite,00118950101149____2__600x600.jpg,"['crustáceos', 'atún', 'quesos', 'frutos secos', 'soja', 'apio', 'mostaza', 'leche', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",4 Stagioni pizza de queso salami champiñones y jamón cocido,00118950102212____2__600x600.jpg,"['crustáceos', 'queso', 'frutos secos', 'soja', 'apio', 'pescado', 'mostaza', 'leche', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",pizza 4 quesos con emmental mozzarella gorgonzola y queso curado,00118950101040____2__600x600.jpg,"['queso ', 'utos secos, pescado,  crustáceos, mostaza', 'nata', 'soja', 'apio', 'leche ', 'leche', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",pizza caprese tomate cherry mozzarella y pesto,00118950101164____2__600x600.jpg,"['crustáceos', 'queso', 'frutos secos', 'soja', 'apio', 'pescado', 'mostaza', 'leche', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",pizza de pollo con mozzarella y vegetales,00118950101891____1__600x600.jpg,"['crustáceos', 'queso', 'frutos secos', 'apio', 'soja', 'pescado', 'mostaza', 'leche', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",Proscuitto e Funghi pizza de jamón y champiñones,00118950102147____2__600x600.jpg,"['crustáceos', 'queso', 'frutos secos', 'soja', 'apio', 'pescado', 'mostaza', 'leche', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",Barbacoa pizza con carne bacon y salsa barbacoa,00118950101982____1__600x600.jpg,"['crustáceos', 'quesos', 'frutos secos', 'soja', 'apio', 'cebada', 'mostaza', 'pescado', 'leche', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",Delizia pizza de queso emmental puerros y crema de leche,00118950101883____1__600x600.jpg,"['crustáceos', 'queso', 'quesos', 'frutos secos', 'nata', 'soja', 'apio', 'pescado', 'mostaza', 'leche', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",Carbonara pizza con bacon cebolla y crema de leche,00118950101875____2__600x600.jpg,"['crustáceos', 'frutos secos', 'nata', 'soja', 'apio', 'pescado', 'mostaza', 'leche', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",Prosciutto pizza de jamón y queso especial microondas,00118950101990____3__600x600.jpg,"['crustáceos', 'queso', 'centeno', 'frutos secos', 'soja', 'apio', 'cebada', 'pescado', 'mostaza', 'leche', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",Formaggi pizza 4 quesos con edam emmental mozzarela y gorgonzola especial microondas,00118950102022____4__600x600.jpg,"['quesos', 'centeno', 'frutos secos', 'soja', 'apio', 'huevo', 'cebada', 'pescado', 'mostaza', 'leche', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",mini pizzas 3 quesos 9 unidades,00118950100539____2__600x600.jpg,"['crustáceos', 'queso', 'frutos secos', 'nata', 'soja', 'apio', 'pescado', 'mostaza', 'leche', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",mini pizzas capricciosa jamón y queso 9 unidades,00118950100521____2__600x600.jpg,"['crustáceos', 'queso', 'frutos secos', 'soja', 'apio', 'pescado', 'mostaza', 'leche', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",mini pizzas de atún 9 unidades,0118950100687000g01011.jpg,"['crustáceos', 'queso', 'atún', 'frutos secos', 'soja', 'apio', 'mostaza', 'leche', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",mini pizzas de frankfurt y queso 9 unidades,0118950101313000g01011.jpg,"['crustáceos', 'queso', 'frutos secos', 'soja', 'apio', 'pescado', 'mostaza', 'leche', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",mini pizzas a la boloñesa 9 unidades,00201150102414____1__600x600.jpg,"['crustáceos', 'queso', 'frutos secos', 'soja', 'apio', 'pescado', 'mostaza', 'leche', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",pizza de chocolate con topping de chocolates variados,00118950102576____1__600x600.jpg,"['nata', 'soja', 'lácteo', 'leche', 'trigo', 'frutos de cáscara']"
+Congelados,"Pizza, Lasaña y Canelones",Yes It's Pizza de brécol mozarella y champiñones y con base de espinacas,00118950103012____1__600x600.jpg,"['queso mozzarella', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",Yes It's Pizza de calabacín cebolla roja queso y jamón cocido y con base de remolacha,00118950103004____1__600x600.jpg,"['queso', 'trigo', 'nata']"
+Congelados,"Pizza, Lasaña y Canelones",Rústica Royal pizza jamón y champiñones,00118950102550____2__600x600.jpg,"['soja', 'trigo', 'cebada', 'queso (gouda, emmental)']"
+Congelados,"Pizza, Lasaña y Canelones",Rustica pizza 4 quesos,00201150102398____1__600x600.jpg,"['queso gouda', 'queso mozzarella', 'queso edam', 'soja', 'cebada', 'leche', 'queso emmental', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",Tonno pizza de atún y cebolla,00118950101156____3__600x600.jpg,"['queso', 'atún', 'edam', 'mozzarella', 'soja', 'cebada', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",Prosciutto Funghi pizza con jamón y champiñones,00118950101008____3__600x600.jpg,"['queso', 'edam', 'mozzarella', 'cebada', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",Quattro Formaggi pizza 4 quesos mozzarella edam emmental y azul,00118950101016____3__600x600.jpg,"['queso mozzarella', 'queso edam', 'nata', 'queso azul', 'cebada', 'queso emmental', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",Bolognese pizza con carne de ternera y salsa boloñesa,00118950101180____3__600x600.jpg,"['queso', 'edam', 'cebada', 'leche', 'trigo', 'gouda']"
+Congelados,"Pizza, Lasaña y Canelones",pizza salami,00118950102063____3__600x600.jpg,"['queso', 'edam', 'cebada', 'leche', 'trigo', 'gouda']"
+Congelados,"Pizza, Lasaña y Canelones",jamón y queso 2 baguettes,0118950100356000g01011.jpg,"['queso', 'yogur', 'mantequilla', 'queso edam', 'nata', 'leche', 'trigo', 'suero lácteo']"
+Congelados,"Pizza, Lasaña y Canelones",4 quesos 2 baguettes,0201150100392000g01011.jpg,"['yogur', 'queso mozzarella', 'queso edam', 'nata', 'queso azul', 'queso cheddar', 'leche', 'queso emmental', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",Bolognesa pizza con carne de ternera,00118950101677____2__600x600.jpg,"['mozzarella', 'queso', 'trigo', 'edam']"
+Congelados,"Pizza, Lasaña y Canelones",Prosciutto pizza sabor clásico con jamón y queso suave,00118950100968____2__600x600.jpg,"['queso', 'yogur', 'edam', 'mozzarella', 'soja', 'huevo', 'leche', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",pizza espinacas,00118950100992____2__600x600.jpg,"['mozzarella', 'queso', 'trigo', 'edam']"
+Congelados,"Pizza, Lasaña y Canelones",pizza carbonara,00201150102349____1__600x600.jpg,"['queso', 'nata', 'edam', 'mozzarella', 'soja', 'huevo', 'leche', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",pizza cuatro quesos mozzarella edamer emmental y queso azul,00118950100976____2__600x600.jpg,"['queso mozzarella', 'queso edam', 'nata', 'queso azul', 'soja', 'queso emmental', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",Tonno pizza con atún,00118950101628____2__600x600.jpg,"['queso', 'atún', 'edam', 'mozzarella', 'soja', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",Speciale pizza con jamón salami y champiñones,00118950101511____2__600x600.jpg,"['mozzarella', 'queso', 'trigo', 'edam']"
+Congelados,"Pizza, Lasaña y Canelones",Funghi pizza con champiñones,00118950101529____2__600x600.jpg,"['mozzarella', 'queso', 'trigo', 'edam']"
+Congelados,"Pizza, Lasaña y Canelones",Mozzarella pizza con mozzarella fresca y salsa pesto,00118950101172____2__600x600.jpg,"['queso mozzarella', 'queso edam', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",pizza de pollo,00118950102055____2__600x600.jpg,"['queso', 'nata', 'edam', 'mozzarella', 'cebada', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",pizza con queso y tomate,00118950102311____2__600x600.jpg,"['queso mozzarella', 'queso edam', 'trigo', 'queso de cabra']"
+Congelados,"Pizza, Lasaña y Canelones",Hawaii pizza con jamón cocido y piña,00118950101537____2__600x600.jpg,"['mozzarella', 'queso', 'trigo', 'edam']"
+Congelados,"Pizza, Lasaña y Canelones",pizza vegetal,00118950101925____2__600x600.jpg,"['queso', 'nata', 'edam', 'mozzarella', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",pizza sabor barbacoa,00118950102048____2__600x600.jpg,"['queso mozzarella', 'queso edam', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",pizza con salami mozzarella y pesto,00118950102568____1__600x600.jpg,"['queso mozzarella', 'queso edam', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",pizza mozarella con tomates cherry y pesto sin gluten,00118950102477____1__600x600.jpg,"['queso mozzarella', 'leche', 'queso edam']"
+Congelados,"Pizza, Lasaña y Canelones",pizza proscuitto jamón y queso sin gluten,00118950102469____1__600x600.jpg,"['QUESO MOZZARELLA, EDAM', 'huevo', 'yogur', 'leche']"
+Congelados,"Pizza, Lasaña y Canelones",barbacoa 2 baguettes,0118950100729000g01011.jpg,"['queso edam', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",pizza de espinacas y ricotta,00118950102410____1__600x600.jpg,"['queso mozzarella', 'trigo', 'queso ricotta', 'nata']"
+Congelados,"Pizza, Lasaña y Canelones",Mozzarella pizza con queso mozzarella tomate cherry y pesto,00118950101404____1__600x600.jpg,"['queso mozzarella', 'queso edam', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",Speciale pizza con salami jamón champiñones queso y tomate,00118950101412____2__600x600.jpg,"['queso edam', 'lactosa', 'huevo', 'cebada', 'leche', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",bases de pizza clásicas 4 unidades,00118950101131____2__600x600.jpg,['trigo']
+Congelados,"Pizza, Lasaña y Canelones",pizza boloñesa,00118950102337____1__600x600.jpg,"['leche', 'soja', 'trigo', 'sulfitos']"
+Congelados,"Pizza, Lasaña y Canelones",pizza de atún,00118950102378____1__600x600.jpg,"['leche', 'trigo', 'atún']"
+Congelados,"Pizza, Lasaña y Canelones",pizza de jamón y queso,00118950102345____1__600x600.jpg,"['leche', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",pizza vegetal,00118950102386____1__600x600.jpg,"['leche', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",pizza 4 quesos cocida en horno de leña,00118950102352____1__600x600.jpg,"['leche', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",minipizza 3 quesos 9 unidades,00118950102642____1__600x600.jpg,"['queso', 'queso mozzarella', 'mantequilla', 'queso edam', 'nata', 'soja', 'leche', 'queso emmental', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",minipizza de jamón y queso 9 unidades,00118950102634____1__600x600.jpg,"['queso mozzarella', 'mantequilla', 'queso edam', 'soja', 'leche', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",baguette de jamón y queso 2 unidades,00118950102659____1__600x600.jpg,"['leche', 'soja', 'trigo', 'queso Mozzarella']"
+Congelados,"Pizza, Lasaña y Canelones",baguettes 4 quesos 2 unidades,00118950102667____1__600x600.jpg,"['queso', 'quesos', 'Emmental', 'Edam', 'Cheddar', 'leche', 'trigo', 'Mozzarella']"
+Congelados,"Pizza, Lasaña y Canelones",pizza BIO 5 Colori biológica con mozarella calabacín berenjena peperoni cebolla y tomates,00118950102683____1__600x600.jpg,"['lácticos', 'nueces', 'leche', 'huevos', 'soja', 'pescado', 'gluten', 'trigo', 'mariscos']"
+Congelados,"Pizza, Lasaña y Canelones",pizza BIO Mia biológica margarita con tomate y mozarella,00118950102675____1__600x600.jpg,"['crustáceos', 'lácticos', 'nueces', 'leche', 'huevos', 'soja', 'pescado', 'gluten', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",lasaña barbacoa con salsa barbacoa 2 raciones,00118929001941____2__600x600.jpg,"['queso', 'huevo', 'cebada', 'leche', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",lasaña boloñesa con pasta fresca al huevo para horno o micro 1 ración,00118929002097____6__600x600.jpg,"['queso', 'huevo', 'cebada', 'leche', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",lasaña boloñesa,00118929000489____3__600x600.jpg,"['leche', 'queso', 'trigo', 'huevo']"
+Congelados,"Pizza, Lasaña y Canelones",lasaña de atún,00118929000638____2__600x600.jpg,"['queso', 'atún', 'huevo', 'leche', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",lasaña de espinacas y queso fresco,00118929000646____4__600x600.jpg,"['leche', 'queso', 'trigo', 'huevo']"
+Congelados,"Pizza, Lasaña y Canelones",lasaña jamón york y queso suave 2 raciones,00118929000968____8__600x600.jpg,"['leche', 'queso', 'trigo', 'huevo']"
+Congelados,"Pizza, Lasaña y Canelones",lasaña boloñesa con bechamel,00201129001606____1__600x600.jpg,"['crustáceos', 'sésamo', 'moluscos', 'soja', 'apio', 'huevo', 'pescado', 'gluten', 'mostaza', 'Queso', 'leche', 'trigo', 'frutos de cáscara']"
+Congelados,"Pizza, Lasaña y Canelones",lasaña 4 quesos,00118929000984____2__600x600.jpg,"['lácteos', 'queso', 'crustáceos', 'sésamo', 'moluscos', 'quesos', 'nata', 'lactosa', 'trazas de alérgenos', 'soja', 'apio', 'huevo', 'pescado', 'gluten', 'mostaza', 'lácteo', 'leche', 'trigo', 'frutos de cáscara']"
+Congelados,"Pizza, Lasaña y Canelones",lasaña boloñesa con queso emmental,00118929001560____1__600x600.jpg,"['crustáceos', 'queso', 'sésamo', 'moluscos', 'soja', 'apio', 'huevo', 'pescado', 'gluten', 'mostaza', 'leche', 'trigo', 'frutos de cáscara']"
+Congelados,"Pizza, Lasaña y Canelones",lasaña vegetal con bechamel para horno y microondas,00118929001073____2__600x600.jpg,"['crustáceos', 'queso', 'sésamo', 'moluscos', 'nata', 'lactosa', 'trazas de alérgenos', 'soja', 'apio', 'huevo', 'pescado', 'gluten', 'mostaza', 'lácteo', 'leche', 'trigo', 'frutos de cáscara']"
+Congelados,"Pizza, Lasaña y Canelones",lasaña boloñesa sin gluten 2 raciones,00118929001826____1__600x600.jpg,"['pescado, crustáceos, moluscos, frutos de cáscara, apio', 'leche, huevo', 'soja', 'huevo', 'mostaza', 'Queso', 'leche']"
+Congelados,"Pizza, Lasaña y Canelones",lasaña boloñesa 2 raciones,00118929001594____4__600x600.jpg,"['sulfitos', 'leche', 'huevo', 'Queso', 'gluten', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",lasaña vegetales 2 raciones,00118929001602____4__600x600.jpg,"['huevo', 'gluten', 'Queso', 'leche', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",lasaña boloñesa biológica,00118929001867____1__600x600.jpg,"['sulfitos', 'mantequilla', 'apio', 'huevo', 'cebada', 'leche', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",lasaña con pesto genovés biológica,00118929001842____1__600x600.jpg,"['mantequilla', 'fermento', 'piñas de pino', 'huevos', 'huevo', 'leche', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",lasaña con ragú vegetal biológica,00118929001859____1__600x600.jpg,"['sulfitos', 'mantequilla', 'apio', 'soja', 'huevo', 'leche', 'levadura', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",canelones de atún,00118929000471____7__600x600.jpg,"['queso', 'atún', 'huevo', 'leche', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",canelones de carne con pasta fresca al huevo para horno o micro 1 ración,00118929002089____11__600x600.jpg,"['queso', 'huevo', 'cebada', 'leche', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",canelones de carne,00118929000117____12__600x600.jpg,"['leche', 'queso', 'trigo', 'huevo']"
+Congelados,"Pizza, Lasaña y Canelones",canelones de carne 2 raciones,00118929001610____3__600x600.jpg,"['sulfitos', 'soja', 'huevo', 'gluten', 'Queso', 'leche', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",canelones de atún 2 raciones,00118929001628____2__600x600.jpg,"['sulfitos', 'atún', 'huevo', 'gluten', 'Queso', 'leche', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",canelones de carne con bechamel 12 unidades,00118929001982____1__600x600.jpg,"['crustáceos', 'sésamo', 'moluscos', 'trazas de alérgenos', 'apio', 'soja', 'huevo', 'pescado', 'gluten', 'mostaza', 'Queso', 'leche', 'trigo', 'frutos de cáscara']"
+Congelados,"Pizza, Lasaña y Canelones",canelones de atún con bechamel para horno y microondas,00118929001081____2__600x600.jpg,"['crustáceos', 'queso', 'sésamo', 'moluscos', 'Leche', 'atún', 'trazas de alérgenos', 'soja', 'apio', 'huevo', 'pescado', 'gluten', 'mostaza', 'leche', 'trigo', 'frutos de cáscara']"
+Congelados,"Pizza, Lasaña y Canelones",canelones de carne con bechamel gratinados,0118929000695000g01011.jpg,"['crustáceos', 'sésamo', 'moluscos', 'apio', 'soja', 'huevo', 'pescado', 'gluten', 'mostaza', 'Queso', 'leche', 'trigo', 'frutos de cáscara']"
+Congelados,"Pizza, Lasaña y Canelones",canelones de carne con queso emmental,00118929001552____1__600x600.jpg,"['crustáceos', 'queso', 'moluscos', 'Leche', 'apio', 'soja', 'huevo', 'pescado', 'gluten', 'mostaza', 'leche', 'trigo', 'frutos de cáscara']"
+Congelados,"Pizza, Lasaña y Canelones",canelones de marisco con queso emmental,00118929001578____1__600x600.jpg,"['rape', 'merluza', 'nata', 'trazas de alérgenos', 'camarón', 'gluten', 'crustáceos', 'queso', 'moluscos', 'soja', 'pescado', 'lácteo', 'leche', 'frutos de cáscara', 'cangrejo', 'lactosa', 'huevo', 'mostaza', 'trigo', 'sepia', 'apio', 'gamba']"
+Congelados,"Pizza, Lasaña y Canelones",canelones de setas con queso emmental,00118929001586____1__600x600.jpg,"['crustáceos', 'queso', 'sésamo', 'moluscos', 'mantequilla', 'lactosa', 'trazas de alérgenos', 'soja', 'apio', 'huevo', 'pescado', 'gluten', 'mostaza', 'lácteo', 'leche', 'trigo', 'frutos de cáscara']"
+Congelados,"Pizza, Lasaña y Canelones",Receta Maestra canelones con foie y trufa con queso emmental,00118929002063____1__600x600.jpg,"['huevo, soja, crustáceos, pescado, moluscos, frutos de cáscara y apio', 'lactosa', 'gluten', 'lácteo', 'leche', 'trigo']"
+Congelados,"Pizza, Lasaña y Canelones",canelones de queso ricotta y espinacas biológicos,00118929001875____1__600x600.jpg,"['mantequilla', 'apio', 'huevo', 'leche', 'levadura', 'trigo']"
+Congelados,Platos preparados congelados,macarrones con queso biológicos,00118929001834____1__600x600.jpg,"['leche', 'trigo', 'nata']"
+Congelados,Platos preparados congelados,fideos orientales yakisoba,00118959601537____1__600x600.jpg,"['leche, huevo, pescado, crustáceos, moluscos, frutos de cáscara', 'apio', 'soja', 'mostaza', 'gluten, soja', 'trigo', 'soja, apio']"
+Congelados,Platos preparados congelados,Risotto 4 quesos,00118959601495____1__600x600.jpg,"['lácteos', 'queso', 'crustáceos', 'moluscos', 'sésamo', 'quesos', 'nata', 'lactosa', 'trazas de alérgenos', 'soja', 'apio', 'huevo', 'pescado', 'gluten', 'mostaza', 'lácteo', 'leche', 'trigo', 'frutos de cáscara']"
+Congelados,Platos preparados congelados,Risotto funghi,00118959601487____1__600x600.jpg,"['crustáceos', 'sésamo', 'moluscos', 'quesos', 'nata', 'lactosa', 'trazas de alérgenos', 'soja', 'apio', 'huevo', 'pescado', 'gluten', 'mostaza', 'lácteo', 'leche', 'trigo', 'frutos de cáscara']"
+Congelados,Platos preparados congelados,arroz integral con buigur y pollo,00118958200570____2__600x600.jpg,"['soja', 'trigo', 'trazas alérgenos']"
+Congelados,Platos preparados congelados,pavo con verduras calentar y listo microondas sin gluten,00118931301941____7__600x600.jpg,"['apio', 'leche', 'soja', 'huevo']"
+Congelados,Platos preparados congelados,patatas rancheras con bacon y queso sin gluten,00118931301917____7__600x600.jpg,"['lácteos', 'queso', 'mantequilla', 'soja', 'huevo', 'lácteo', 'leche']"
+Congelados,Platos preparados congelados,albondigas suecas para horno o microondas 4 minutos,00118928501511____1__600x600.jpg,"['leche, huevo', 'soja', 'huevo', 'leche', 'trigo', 'pescado, crustáceos, moluscos, frutos de cáscara, apio y mostaza']"
+Congelados,Platos preparados congelados,Albondigas de ternera con salsa de tomate y albahaca biológicas,00118928501388____1__600x600.jpg,"['fermento', 'apio', 'huevo', 'leche', 'trigo']"
+Congelados,Platos preparados congelados,empanadillas de pollo masa ultra fina,00118925200406____2__600x600.jpg,"['gluten', 'trigo', 'huevo']"
+Congelados,Platos preparados congelados,mini pasteles de hojaldre rellenos de carne 9 unidades,00118931300786____2__600x600.jpg,"['leche', 'soja', 'trigo', 'huevo']"
+Congelados,Platos preparados congelados,pimientos del piquillo rellenos de marisco,00201131302166____1__600x600.jpg,"['metabisulfito', 'crustáceos', 'sulfitos', 'Leche', 'merluza', 'leche', 'pescado', 'gluten', 'gamba', 'trigo']"
+Congelados,Platos preparados congelados,sopa de pescado mediterránea,00118927100752____1__600x600.jpg,"['trigo', 'merluza', 'pota']"
+Congelados,Platos preparados congelados,filete de pescado gratinado con tomate y albahaca,00118929001958____7__600x600.jpg,"['Abadejo', 'trigo', 'pescado']"
+Congelados,Platos preparados congelados,filete de pescado gratinado con patata y romero,00118929001966____7__600x600.jpg,"['Abadejo', 'trigo', 'pescado']"
+Congelados,Platos preparados congelados,filete de pescado gratinado con hierbas provenzales,00118929001974____7__600x600.jpg,"['Abadejo', 'trigo', 'pescado']"
+Congelados,Platos preparados congelados,salpicón de marisco,00118946900513____2__600x600.jpg,"['colo', 'ado bla', 'mejillón', 'ambón ', '), ag', 'tabisulfito s', 'cida (', 'Marisco', 'jo (2,25']"
+Congelados,Platos preparados congelados,Guisantes finos al vapor listos en 3 minutos,00118926600422____2__600x600.jpg,[]
+Congelados,Platos preparados congelados,menestra cuatro estaciones al vapor listo en 3 minutos,00118926600430____1__600x600.jpg,[]
+Congelados,Platos preparados congelados,menestra gourmet al vapor 2 bolsas individuales,00201126600525____1__600x600.jpg,[]
+Congelados,Platos preparados congelados,salteado campesina al vapor 2 bolsas individuales,00118926600562____1__600x600.jpg,[]
+Congelados,Platos preparados congelados,palitos de verdura chirivia y boniato sin gluten,00118926600604____1__600x600.jpg,[]
+Congelados,Platos preparados congelados,de calabacín asado y zanahoria con queso de Burgos,00118926600315____1__600x600.jpg,"['mantequilla', 'leche', 'queso']"
+Congelados,Platos preparados congelados,de champiñones y boletus,00118926600281____1__600x600.jpg,"['mantequilla', 'leche']"
+Congelados,Platos preparados congelados,de guisantes con jamón ibérico,00118926600323____1__600x600.jpg,"['mantequilla', 'leche']"
+Congelados,Platos preparados congelados,mussaka lasaña de berenjena,0201159601465000g01011.jpg,"['crustáceos', 'queso', 'sésamo', 'moluscos', 'láctea', 'trazas de alérgenos', 'soja', 'apio', 'huevo', 'pescado', 'gluten', 'mostaza', 'leche', 'trigo', 'frutos de cáscara']"
+Congelados,Platos preparados congelados,quinoa con kale y lentejas,00118958300784____2__600x600.jpg,['trazas alérgenos']
+Congelados,Platos preparados congelados,pimientos del piquillo rellenos de bacalao 2 unidades,00118931301727____1__600x600.jpg,"['bacalao', 'merluza', 'leche', 'trigo', 'Gadus Morhua']"
+Congelados,Platos preparados congelados,pintxo de huevo frito con patatas y bacon sin gluten,00118931301180____1__600x600.jpg,"['soja', 'huevo']"
+Congelados,Platos preparados congelados,Gourmet tortilla de patata con cebolla sin gluten,00118931301172____3__600x600.jpg,['huevo']
+Congelados,Platos preparados congelados,Spanish burger pack 2 tortillas baby sin cebolla sin gluten,00118931301602____1__600x600.jpg,['huevo']
+Congelados,Platos preparados congelados,Spanish burger pack 2 tortillas baby sin gluten,00118931301594____1__600x600.jpg,['huevo']
+Congelados,Platos preparados congelados,tortilla de patata con cebolla lista en 5 minutos sin gluten,00118931301511____3__600x600.jpg,['huevo']
+Congelados,Platos preparados congelados,cous cous con quinoa y verduras,00118958300743____1__600x600.jpg,['fletán']
+Congelados,Platos preparados congelados,cous cous mediterráneo biológico,00118959601610____1__600x600.jpg,"['apio', 'soja', 'trigo']"
+Congelados,Platos preparados congelados,preparado para huevos rotos con 35% york y bacon añadir huevo y listo sin gluten,00118958400493____7__600x600.jpg,"['lactosa', 'leche', 'soja']"
+Congelados,Precocinados rebozados,pollo empanado 4 unidades,00118928500091____2__600x600.jpg,"['crustáceos', 'sésamo', 'moluscos', 'soja', 'huevo', 'cebada', 'pescado', 'leche', 'trigo', 'frutos de cáscara']"
+Congelados,Precocinados rebozados,nuggets de pollo rebozado fino familiar 25 unidades,00118928500745____2__600x600.jpg,"['crustáceos', 'sésamo', 'moluscos', 'soja', 'huevo', 'pescado', 'leche', 'trigo']"
+Congelados,Precocinados rebozados,nuggets de pavo,00118928500893____1__600x600.jpg,"['crustáceos', 'moluscos', 'frutos secos', 'soja', 'huevo', 'pescado', 'leche', 'trigo']"
+Congelados,Precocinados rebozados,nuggets de pollo con queso 15 unidades,00118928500380____1__600x600.jpg,"['crustáceos', 'queso', 'sésamo', 'moluscos', 'soja', 'huevo', 'pescado', 'leche', 'trigo', 'frutos de cáscara']"
+Congelados,Precocinados rebozados,nuggets de pollo con salsa barbacoa 12 unidades,00118928500166____2__600x600.jpg,"['crustáceos', 'sésamo', 'moluscos', 'sulfitos', 'lactosa', 'soja', 'huevo', 'pescado', 'mostaza', 'leche', 'trigo', 'frutos de cáscara']"
+Congelados,Precocinados rebozados,alitas de pollo asadas a la barbacoa,00118928501131____2__600x600.jpg,"['gluten', 'soja', 'huevo', 'leche']"
+Congelados,Precocinados rebozados,fingers de pollo 16 unidades aprox,00118928500836____2__600x600.jpg,"['crustáceos', 'sésamo', 'moluscos', 'soja', 'huevo', 'cebada', 'pescado', 'leche', 'trigo']"
+Congelados,Precocinados rebozados,cordon bleu de cerdo jamón y queso 4 unidades,00118928501263____2__600x600.jpg,"['crustáceos', 'queso', 'sésamo', 'moluscos', 'mantequilla', 'soja', 'huevo', 'cebada', 'pescado', 'leche', 'trigo', 'frutos de cáscara']"
+Congelados,Precocinados rebozados,San Jacobos jamón y queso empanado 5 unidades,00118928500075____1__600x600.jpg,"['queso', 'sésamo', 'moluscos', 'soja', 'huevo', 'cebada', 'pescado', 'leche', 'trigo', 'frutos de cáscara']"
+Congelados,Precocinados rebozados,mini San Jacobos 16 unidades,00118928500695____2__600x600.jpg,"['crustáceos', 'queso', 'sésamo', 'moluscos', 'soja', 'huevo', 'cebada', 'pescado', 'leche', 'trigo', 'frutos de cáscara']"
+Congelados,Precocinados rebozados,nuggets de pollo con salsa barbacoa,00118928500596____1__600x600.jpg,"['soja', 'trigo']"
+Congelados,Precocinados rebozados,empanado de pollo,00118928501370____1__600x600.jpg,"['soja', 'trigo']"
+Congelados,Precocinados rebozados,fingers de pollo marinado,00118928501289____1__600x600.jpg,"['gluten', 'trigo']"
+Congelados,Precocinados rebozados,nugget de pollo empanado fino y crujiente,00118928501362____1__600x600.jpg,"['soja', 'trigo']"
+Congelados,Precocinados rebozados,nuggets de pollo,0201128500673000g01011.jpg,"['soja', 'trigo']"
+Congelados,Precocinados rebozados,san jacobo empanado 4 unidades,00118928501271____3__600x600.jpg,"['lácteos', 'queso', 'lactosa', 'soja', 'lácteo', 'leche', 'trigo']"
+Congelados,Precocinados rebozados,nuggets de pollo 2 minutos,00118928501198____1__600x600.jpg,"['crustáceos', 'trigo', 'sésamo', 'moluscos', 'Empanado', 'leche', 'trazas de alérgenos', 'soja', 'apio', 'huevo', 'pescado', 'mostaza', 'gluten', 'Relleno (62%)', 'frutos de cáscara']"
+Congelados,Precocinados rebozados,pechuguitas de pollo empanadas 8 unidades aprox,00118928501032____1__600x600.jpg,"['crustáceos', 'sésamo', 'moluscos', 'leche', 'trazas de alérgenos', 'soja', 'apio', 'huevo', 'pescado', 'mostaza', 'gluten', 'trigo', 'frutos de cáscara']"
+Congelados,Precocinados rebozados,nuggets de pollo sin gluten,00118928500927____1__600x600.jpg,"['crustáceos', 'sésamo', 'moluscos', 'soja', 'apio', 'huevo', 'pescado', 'mostaza', 'leche', 'frutos de cáscara']"
+Congelados,Precocinados rebozados,Pop nuggets palomitas de pollo 4 raciones de 10 unidades,00118928500802____1__600x600.jpg,"['crustáceos', 'sésamo', 'moluscos', 'leche', 'soja', 'apio', 'huevo', 'pescado', 'mostaza', 'gluten', 'trigo', 'frutos de cáscara']"
+Congelados,Precocinados rebozados,finger de pollo con pechuga entera sin gluten,00118928501214____1__600x600.jpg,"['crustáceos', 'moluscos', 'soja', 'apio', 'huevo', 'pescado', 'mostaza', 'leche', 'frutos de cáscara']"
+Congelados,Precocinados rebozados,nuggets de pollo para microondas 10 unidades aprox,00118928500976____1__600x600.jpg,"['crustáceos', 'sésamo', 'moluscos', 'leche', 'trazas de alérgenos', 'soja', 'apio', 'huevo', 'pescado', 'mostaza', 'gluten', 'trigo', 'frutos de cáscara']"
+Congelados,Precocinados rebozados,nuggets de pollo 13 unidades aprox,00118928501297____1__600x600.jpg,"['soja', 'huevo', 'mostaza', 'leche, pescado, crustáceos, moluscos, frutos de cáscara, apio', 'gluten, huevo', 'trigo']"
+Congelados,Precocinados rebozados,pechuga super crispy estilo kentucky,00118928501701____2__600x600.jpg,"['apio', 'trigo']"
+Congelados,Precocinados rebozados,flamenquín jamón york y queso 4 unidades,00118931301933____1__600x600.jpg,"['leche', 'soja', 'trigo']"
+Congelados,Precocinados rebozados,crunchy american style 100% pechuga de pollo con salsa barbacoa,00118928501578____1__600x600.jpg,"['leche', 'soja', 'mostaza', 'gluten', 'trigo']"
+Congelados,Precocinados rebozados,tenders american style 100% pechuga de pollo sabor barbacoa y miel,00118928501602____1__600x600.jpg,"['metabisulfito', 'sulfitos', 'leche', 'apio', 'soja', 'huevo', 'gluten', 'trigo']"
+Congelados,Precocinados rebozados,tenders american style 100% pechuga de pollo sabor cajún,00118928501594____1__600x600.jpg,"['gluten', 'trigo', 'huevo']"
+Congelados,Precocinados rebozados,Peskitos merluza empanada 10 unidades,00118949300265____3__600x600.jpg,"['Puede contener trazas de leche', 'Merluza', 'trigo', 'huevo']"
+Congelados,Precocinados rebozados,Surfers merluza rebozada 12 unidades,00118949300067____2__600x600.jpg,"['Merluza', 'Puede contener trazas de leche y huevo', 'trigo']"
+Congelados,Precocinados rebozados,filetes de merluza rebozados al huevo 4 unidades,00118949300588____3__600x600.jpg,"['Puede contener trazas de leche', 'Merluza', 'trigo', 'huevo']"
+Congelados,Precocinados rebozados,filetes de merluza empanados 4 unidades,00118949300638____1__600x600.jpg,"['Puede contener  trazas de leche', 'Merluza', 'trigo', 'huevo']"
+Congelados,Precocinados rebozados,Chanquitos enharinados sin gluten y sin lactosa,0201149300459000g01011.jpg,"['crustáceos', 'moluscos', 'soja', 'huevo', 'pescado']"
+Congelados,Precocinados rebozados,palitos rebozados de merluza,00118949300422____1__600x600.jpg,"['Merluza', 'Puede contener trazas de leche y moluscos', 'trigo', 'huevo']"
+Congelados,Precocinados rebozados,varitas de merluza empanada 10 unidades,00118949300026____3__600x600.jpg,"['crustáceos', 'moluscos', 'Merluza', 'huevo', 'leche', 'trigo']"
+Congelados,Precocinados rebozados,varitas de merluza rebozadas con queso 10 unidades,00118949300133____1__600x600.jpg,"['lácteos', 'queso', 'lactosuero', 'Merluza', 'huevo', 'leche', 'trigo']"
+Congelados,Precocinados rebozados,lomos a la romana de merluza rebozada 5 unidades,00118949300109____1__600x600.jpg,"['Merluza', 'trigo', 'huevo', 'Puede contener trazas de  leche']"
+Congelados,Precocinados rebozados,varitas de merluza empanada Popcorn al horno sin gluten 10 unidades,00118949300398____1__600x600.jpg,"['Merluza', 'Puede contener trazas de leche y huevo']"
+Congelados,Precocinados rebozados,delicias de merluza rebozadas 12 unidades,0118949300075000g01011.jpg,"['Merluza', 'trigo', 'Puede contener  trazas de huevo']"
+Congelados,Precocinados rebozados,Crocante de merluza con tomate y orégano 2 raciones sin gluten,00118949300596____1__600x600.jpg,"['Merluza', 'Puede contener trazas de huevo y leche']"
+Congelados,Precocinados rebozados,mini burguers de merluza empanada sabor bacon 12 unidades aprox sin gluten,00118949300604____3__600x600.jpg,"['Merluza', 'Puede contener trazas de leche y huevo']"
+Congelados,Precocinados rebozados,bocados crujientes de merluza sabores teriyaki  marrakech y mexicano 18 unidades,00118949300661____1__600x600.jpg,"['crustáceos', 'moluscos', 'Merluza', 'soja', 'huevo', 'leche', 'trigo']"
+Congelados,Precocinados rebozados,piruletas con crujiente de maiz rellenas de doble langostino al horno 10 unidades,00118949300653____1__600x600.jpg,"['Langostino', 'moluscos', 'sulfitos', 'leche', 'huevo', 'pescado', 'gluten']"
+Congelados,Precocinados rebozados,muslitos de mar sin gluten y sin lactosa,00118940700240____1__600x600.jpg,"['crustáceos', 'moluscos', 'soja', 'huevo', 'pescado']"
+Congelados,Precocinados rebozados,bacalao rebozado 100% filete 4 piezas,0118949300554000g01011.jpg,"['bacalao', 'nata', 'mostaza', 'leche', 'trigo']"
+Congelados,Precocinados rebozados,muslitos de mar sabor cangrejo,00118940700026____1__600x600.jpg,"['soja', 'huevo', 'pescado', 'gluten', 'trigo', 'cangrejo']"
+Congelados,Precocinados rebozados,MEJILLON TIGRE,00118946900596____1__600x600.jpg,"['pan rallado', 'Leche', 'merluza', 'mejillón', 'molusco', 'soja', 'pescado', 'gluten', 'leche', 'trigo']"
+Congelados,Precocinados rebozados,mini croquetas de jamón serrano,00118924700067____2__600x600.jpg,"['crustáceos', 'moluscos', 'pescado', 'leche', 'trigo']"
+Congelados,Precocinados rebozados,Sabrosisímas croquetas de jamón serrano,00118924701271____1__600x600.jpg,"['crustáceos', 'moluscos', 'pescado', 'leche', 'trigo']"
+Congelados,Precocinados rebozados,Sabrosísimas croquetas de pollo,00118924701289____1__600x600.jpg,"['crustáceos', 'moluscos', 'pescado', 'leche', 'trigo']"
+Congelados,Precocinados rebozados,croquetas de cazuela de bacalao,00118924700059____2__600x600.jpg,"['crustáceos', 'moluscos', 'bacalao', 'leche', 'trigo']"
+Congelados,Precocinados rebozados,croquetas de cocido casero con jamón serrano,00118924700034____2__600x600.jpg,"['crustáceos', 'moluscos', 'pescado', 'leche', 'trigo']"
+Congelados,Precocinados rebozados,croquetas de estofado de pollo,00118924700042____2__600x600.jpg,"['crustáceos', 'moluscos', 'pescado', 'leche', 'trigo']"
+Congelados,Precocinados rebozados,croquetas de jamón ibérico,00118924700414____2__600x600.jpg,"['crustáceos', 'moluscos', 'pescado', 'leche', 'trigo']"
+Congelados,Precocinados rebozados,croquetas de bacalao,00118924701628____1__600x600.jpg,"['bacalao', 'trigo', 'huevo', 'Leche']"
+Congelados,Precocinados rebozados,croquetas de cocido,00118924701602____1__600x600.jpg,"['trigo', 'sulfitos', 'Leche', 'huevo']"
+Congelados,Precocinados rebozados,croquetas de jamón ibérico,00118924701610____1__600x600.jpg,"['trigo', 'huevo', 'Leche']"
+Congelados,Precocinados rebozados,croquetas de pollo,00118924701594____1__600x600.jpg,"['trigo', 'huevo', 'Leche']"
+Congelados,Precocinados rebozados,croquetas jamón serrano,00118924701586____1__600x600.jpg,"['trigo', 'huevo', 'Leche']"
+Congelados,Precocinados rebozados,croquetas de bacalao y cebolla caramelizada sin gluten,00118924701107____1__600x600.jpg,"['leche', 'pescado', 'bacacalo']"
+Congelados,Precocinados rebozados,croquetas de boletus y escamas de patata sin gluten,00118924701081____1__600x600.jpg,['leche']
+Congelados,Precocinados rebozados,croquetas de jamón ibérico y pan crujiente sin gluten,00118924701065____2__600x600.jpg,['leche']
+Congelados,Precocinados rebozados,croquetas de parmesano y stracciatella de tomate sin gluten,00118924701073____1__600x600.jpg,"['leche', 'huevo']"
+Congelados,Precocinados rebozados,delicias de boletus artesanas,0118924700398000g01011.jpg,"['pan rallado', 'soja', 'trigo', 'Leche']"
+Congelados,Precocinados rebozados,bolitas de bacalao y pimientos del piquillo artesanas,0118924700695000g01011.jpg,"['pan rallado', 'Leche', 'merluza', 'bacalado', 'soja', 'trigo']"
+Congelados,Precocinados rebozados,croquetas de jamón artesanas,0118924700380000g01011.jpg,"['pan rallado', 'Leche', 'soja', 'gluten', 'leche', 'trigo']"
+Congelados,Precocinados rebozados,croquetas de cocido artesanas,0118924700430000g01011.jpg,"['pan rallado', 'vino', 'sulfitos', 'Leche', 'soja', 'gluten', 'leche', 'trigo', 'harina']"
+Congelados,Precocinados rebozados,croquetas de jamón sin gluten,0118924700539000g01011.jpg,"['pan rallado', 'leche', 'sulfito', 'Leche']"
+Congelados,Precocinados rebozados,croquetas ecológicas de espinaca y queso gouda,00118924701255____1__600x600.jpg,"['crustáceos', 'queso', 'moluscos', 'Leche', 'sulfitos', 'soja', 'apio', 'huevo', 'pescado', 'gluten', 'mostaza', 'leche', 'trigo']"
+Congelados,Precocinados rebozados,croquetas ecológicas de jamón,00118924701222____1__600x600.jpg,"['crustáceos', 'moluscos', 'Leche', 'sulfitos', 'leche', 'soja', 'apio', 'huevo', 'pescado', 'mostaza', 'gluten', 'trigo']"
+Congelados,Precocinados rebozados,croquetas ecológicas de pollo,00118924701230____1__600x600.jpg,"['crustáceos', 'moluscos', 'Leche', 'sulfitos', 'leche', 'soja', 'apio', 'huevo', 'pescado', 'mostaza', 'gluten', 'trigo']"
+Congelados,Precocinados rebozados,croquetas ecológicas de puerro,00118924701263____1__600x600.jpg,"['crustáceos', 'moluscos', 'Leche', 'sulfitos', 'leche', 'soja', 'apio', 'huevo', 'pescado', 'mostaza', 'gluten', 'trigo']"
+Congelados,Precocinados rebozados,croquetas ecológicas de setas shiitake,00118924701248____1__600x600.jpg,"['crustáceos', 'moluscos', 'Leche', 'sulfitos', 'leche', 'soja', 'apio', 'huevo', 'pescado', 'mostaza', 'gluten', 'trigo']"
+Congelados,Precocinados rebozados,Surtido Mini de croquetas y bolitas sabores jamón mejillón y bacalao,0118924700703000g01011.jpg,"['pan rallado', 'queso', 'bacalao', 'merluza', 'mejillón', 'molusco', 'soja', 'pescado', 'gluten', 'leche', 'trigo']"
+Congelados,Precocinados rebozados,receta maestra croquetas de jamón ibérico.,00118924700810____1__600x600.jpg,"['crustáceos', 'sésamo', 'moluscos', 'trazas de alérgenos', 'soja', 'apio', 'huevo', 'pescado', 'gluten', 'mostaza', 'leche', 'trigo', 'frutos de cáscara']"
+Congelados,Precocinados rebozados,croquetas de jamón serrano sin gluten,00118924701214____1__600x600.jpg,"['huevo, soja, pescado, crustáceos, moluscos, frutos de cáscara', 'lactosa', 'apio', 'mostaza', 'lácteo', 'leche']"
+Congelados,Precocinados rebozados,croquetas de pollo sin gluten 10 unidades aprox,00118924701305____1__600x600.jpg,"['soja, huevo, pescado, crustáceos, moluscos, frutos de cáscara y mostaza', 'lactosa', 'apio', 'lácteo', 'leche']"
+Congelados,Precocinados rebozados,croquetas de setas,00118924700786____1__600x600.jpg,"['crustáceos', 'sésamo', 'moluscos', 'lactosa', 'trazas de alérgenos', 'soja', 'apio', 'huevo', 'pescado', 'gluten', 'mostaza', 'lácteo', 'leche', 'trigo', 'frutos de cáscara']"
+Congelados,Precocinados rebozados,croquetas de cocido,00118924700794____1__600x600.jpg,"['crustáceos', 'sésamo', 'moluscos', 'trazas de alérgenos', 'apio', 'soja', 'huevo', 'pescado', 'gluten', 'mostaza', 'leche', 'trigo', 'frutos de cáscara']"
+Congelados,Precocinados rebozados,croquetas de bacalao,00201124700483____1__600x600.jpg,"['leche y sus derivados', 'Leche', 'mantequilla', 'bacalao', 'huevo', 'pescado', 'gluten', 'trigo']"
+Congelados,Precocinados rebozados,croquetas de carne,0201124700772000g01011.jpg,"['leche y sus derivados', 'Leche', 'mantequilla', 'huevo', 'gluten', 'trigo']"
+Congelados,Precocinados rebozados,croquetas de queso D.O. Picón Bejes - Tresviso,0201124700764000g01011.jpg,"['queso', 'leche y sus derivados', 'Leche', 'mantequilla', 'huevo', 'gluten', 'leche', 'trigo']"
+Congelados,Precocinados rebozados,croquetas de jamón ibérico,00201124700475____1__600x600.jpg,"['leche y sus derivados', 'Leche', 'mantequilla', 'huevo', 'gluten', 'trigo']"
+Congelados,Precocinados rebozados,delicias de jamón y queso 6 unidades,00118928500109____2__600x600.jpg,"['queso', 'lactosa', 'huevo', 'leche', 'trigo']"
+Congelados,Precocinados rebozados,Sonrisas  de mozzarella y jamón 4 unidades,00118928501685____2__600x600.jpg,"['leche', 'queso', 'trigo', 'huevo']"
+Congelados,Precocinados rebozados,empanadillas de atún 10 unidades,00118925200372____2__600x600.jpg,"['trigo', 'huevo', 'atún']"
+Congelados,Precocinados rebozados,empanadillas de carne 10 unidades,00118925200471____3__600x600.jpg,"['trigo', 'huevo', 'cebada']"
+Congelados,Precocinados rebozados,empanadillas de pollo con champiñón y bacón 10 unidades,00118925200489____3__600x600.jpg,"['trigo', 'huevo', 'nata']"
+Congelados,Precocinados rebozados,mini empanadillas de atún 30 unidades,00118925200034____2__600x600.jpg,"['trigo', 'huevo', 'atún']"
+Congelados,Precocinados rebozados,mini crepes jamón y queso 6 unidades,00118931301354____3__600x600.jpg,"['leche', 'queso', 'trigo', 'huevo']"
+Congelados,Precocinados rebozados,miniempanadillas de atún,00118925200448____1__600x600.jpg,"['trigo', 'huevo', 'atún']"
+Congelados,Precocinados rebozados,empanadillas de atún,00118925200430____2__600x600.jpg,"['trigo', 'huevo', 'atún']"
+Congelados,Precocinados rebozados,pimiento jalapeño relleno de queso crema,0118959601297000g01011.jpg,"['metabisulfito', 'lácticos', 'Leche', 'sulfitos', 'cereales', 'nata', 'huevo', 'Queso', 'gluten', 'trigo']"
+Congelados,Precocinados rebozados,fingers de mozzarella,0118959601271000g01011.jpg,"['metabisulfito', 'lácteos', 'Leche', 'sulfitos', 'cereales', 'huevo', 'Queso', 'gluten', 'trigo']"
+Congelados,Precocinados rebozados,mini empanadillas de atún,00118925200422____1__600x600.jpg,"['atún', 'huevo', 'pescado', 'gluten', 'trigo']"
+Congelados,Precocinados rebozados,crunchy american style de queso gouda con mermelada de albaricoque,00118931301925____1__600x600.jpg,"['huevo', 'gluten', 'Queso', 'leche', 'trigo']"
+Congelados,Precocinados rebozados,tequeños deditos de jamón y queso 4 unidades,0118959601172000g01011.jpg,"['queso', 'mantequilla', 'láctea', 'leche', 'lactosa', 'soja', 'gluten', 'trigo']"
+Congelados,Precocinados rebozados,tequeños deditos de queso elaboración artesana 4 unidades,0118959601164000g01011.jpg,"['queso', 'mantequilla', 'leche', 'lactosa', 'Queso', 'gluten', 'trigo']"
+Congelados,Precocinados rebozados,caprichos de calamar a la romana,00118948800224____4__600x600.jpg,"['trigo', 'molusco', 'Puede contener trazas de pescado, huevo y leche']"
+Congelados,Precocinados rebozados,anillos a la romana rebozados con huevo sin gluten,00118948800257____7__600x600.jpg,"['crustáceos', 'molusco', 'huevo', 'pescado', 'leche']"
+Congelados,Precocinados rebozados,rabas de calamar rebozadas en harina,00118948800083____3__600x600.jpg,"['crustáceos', 'molusco', 'leche', 'huevo', 'pescado', 'gluten', 'trigo']"
+Congelados,Precocinados rebozados,chopirones rebozados al huevo,00118948800232____2__600x600.jpg,"['Puede contener trazas de leche', 'trigo', 'molusco', 'huevo']"
+Congelados,Precocinados rebozados,rabas de calamar empanadas,00118948800158____1__600x600.jpg,"['trigo', 'molusco', 'sulfitos', 'Potón']"
+Congelados,Precocinados rebozados,tempura de verduras berenjena calabacín pimiento rojo y zanahoria,00118926600224____2__600x600.jpg,"['crustáceos', 'sésamo', 'moluscos', 'leche', 'trazas de alérgenos', 'soja', 'apio', 'huevo', 'pescado', 'mostaza', 'gluten', 'trigo', 'frutos de cáscara']"
+Congelados,Precocinados rebozados,rollitos primavera 4 unidades,00118959601461____1__600x600.jpg,"['crustáceos', 'sésamo', 'moluscos', 'leche', 'trazas de alérgenos', 'apio', 'soja', 'huevo', 'pescado', 'mostaza', 'gluten', 'trigo', 'frutos de cáscara']"
+Congelados,Precocinados rebozados,rollitos vegetales 4 unidades,00118959601479____1__600x600.jpg,"['crustáceos', 'sésamo', 'moluscos', 'leche', 'trazas de alérgenos', 'soja', 'apio', 'huevo', 'pescado', 'mostaza', 'gluten', 'trigo', 'frutos de cáscara']"
+Congelados,Precocinados rebozados,aros de cebolla,00118926600018____3__600x600.jpg,['harina de trigo']
+Congelados,Salteados congelados,tradicionales pisto con tomate 2 raciones,00118958300560____2__600x600.jpg,[]
+Congelados,Salteados congelados,guisantes con jamón listo en 5 minutos 2 raciones,00118958400287____2__600x600.jpg,[]
+Congelados,Salteados congelados,espinacas a la crema tradicionales para microondas y sartén 2 raciones,00118958300644____2__600x600.jpg,"['lactosa', 'leche', 'láctea', 'nata']"
+Congelados,Salteados congelados,tradicionales espinacas al ajillo 2 raciones,00118958300214____2__600x600.jpg,[]
+Congelados,Salteados congelados,guarniciones de setas con ajo y perejil 2 raciones,00118958300487____2__600x600.jpg,[]
+Congelados,Salteados congelados,tradicionales espinacas con pasas y piñones 2 raciones,00118958300578____2__600x600.jpg,[]
+Congelados,Salteados congelados,menestra tradicional 2 raciones,00118958300495____2__600x600.jpg,[]
+Congelados,Salteados congelados,tradicionales habitas con jamón,00118958400345____2__600x600.jpg,[]
+Congelados,Salteados congelados,parrillada de calabacín 2 raciones,00118958300628____2__600x600.jpg,[]
+Congelados,Salteados congelados,"Super Veggie con calabacín, bulgur y garbanzos",00118958300768____2__600x600.jpg,[]
+Congelados,Salteados congelados,"Super Veggie con brócoli, trigo sarraceno y alubias",00118958300776____2__600x600.jpg,"['trigo', 'mostaza']"
+Congelados,Salteados congelados,arroz integral con verduras y pollo plato único 1 ración,00118958200505____6__600x600.jpg,[]
+Congelados,Salteados congelados,pasta con verduras y pavo plato único 1 ración,00118958500185____1__600x600.jpg,"['leche', 'trigo']"
+Congelados,Salteados congelados,preparado para revuelto tradicional con setas 2 raciones,00118958300479____1__600x600.jpg,['gamba']
+Congelados,Salteados congelados,paella de marisco,0118958200125000g01011.jpg,"['crustáceos', 'calamar', 'pescado', 'gamba', 'pota']"
+Congelados,Salteados congelados,pasta oriental con gambas,00118959600166____1__600x600.jpg,"['crustáceos', 'sésamo', 'soja', 'huevo', 'pescado', 'gamba', 'trigo']"
+Congelados,Salteados congelados,salteado campestre,00118958300339____6__600x600.jpg,[]
+Congelados,Salteados congelados,salteado de patata con ternera y bacon,00118958400428____2__600x600.jpg,['soja']
+Congelados,Salteados congelados,arroz negro con tinta y calamar,00118958200463____2__600x600.jpg,"['crustáceos', 'calamar', 'molusco', 'sepia', 'crustáceo', 'pescado', 'gamba', 'trigo']"
+Congelados,Salteados congelados,espinacas con gambas,0201158300325000g01011.jpg,['gamba']
+Congelados,Salteados congelados,arroz 3 delicias tradicional,00118958200067____6__600x600.jpg,"['lactosa', 'crustáceo', 'huevo', 'gamba', 'trigo']"
+Congelados,Salteados congelados,arroz 3 delicias con marisco,00118958200091____6__600x600.jpg,"['lactosa', 'crustáceo', 'huevo', 'pescado', 'gamba', 'trigo']"
+Congelados,Salteados congelados,salteado tradicional de verduras,00118958300347____2__600x600.jpg,[]
+Congelados,Salteados congelados,patata con jamón y queso,0118958400410000g01011.jpg,"['mantequilla', 'leche', 'queso']"
+Congelados,Salteados congelados,noodles con verduras y pollo plato único 1 ración,00118958500193____1__600x600.jpg,"['soja', 'trigo']"
+Congelados,Salteados congelados,arroz tres delicias tradicional,00118958200562____2__600x600.jpg,"['gamba', 'huevo']"
+Congelados,Salteados congelados,arroz tres delicias con pollo,00118958200547____2__600x600.jpg,['huevo']
+Congelados,Salteados congelados,arroz tres delicias con marisco,00118958200554____2__600x600.jpg,"['soja', 'crustáceo', 'huevo', 'pescado', 'gamba']"
+Congelados,Salteados congelados,revuelto de gambas ajetes y esparragos trigueros,00118958400477____1__600x600.jpg,['Gamba']
+Congelados,Salteados congelados,salteado de verduras asadas,00118958300701____1__600x600.jpg,[]
+Congelados,Salteados congelados,salteado tradicional de verduras,00118958300719____1__600x600.jpg,[]
+Congelados,Salteados congelados,relleno de verduras y pollo para fajitas incluye bolsita sazonador,00118958400485____10__600x600.jpg,"['lácteo', 'soja']"
+Congelados,Salteados congelados,relleno para fajitas pollo y verduras asadas,00118958400378____1__600x600.jpg,"['Puede contener trazas de frutos de cáscara, leche, huevos, pescado, crustáceos, soja, gluten, apio, sulfitos y moluscos']"
+Congelados,Salteados congelados,relleno para burritos carne y verduras,00118958400386____3__600x600.jpg,"['Puede contener trazas de frutos de cáscara, leche, huevos, pescado, crustáceos, soja, gluten, apio, sulfitos y moluscos.']"
+Congelados,Salteados congelados,salteado de quinoa y kale con 30% de pavo sin gluten,00118958300750____2__600x600.jpg,"['leche', 'soja', 'mostaza']"
+Congelados,"Verduras, hortalizas y frutas",alcachofas troceadas,00118915300042____1__600x600.jpg,[]
+Congelados,"Verduras, hortalizas y frutas",Summum corazones de alcachofas congeladas,00118915300034____1__600x600.jpg,[]
+Congelados,"Verduras, hortalizas y frutas",ensaladilla,00118920900075____1__600x600.jpg,[]
+Congelados,"Verduras, hortalizas y frutas",ensaladilla,00118920900117____1__600x600.jpg,[]
+Congelados,"Verduras, hortalizas y frutas",Ensaladilla,00118920900109____1__600x600.jpg,[]
+Congelados,"Verduras, hortalizas y frutas",espinacas en hojas miniporciones,00118919100091____1__600x600.jpg,[]
+Congelados,"Verduras, hortalizas y frutas",espinacas cortadas,00118919100109____1__600x600.jpg,[]
+Congelados,"Verduras, hortalizas y frutas",espinacas en hojas,00118919100158____1__600x600.jpg,[]
+Congelados,"Verduras, hortalizas y frutas",Guisantes finos al vapor listos en 3 minutos,00118926600422____2__600x600.jpg,[]
+Congelados,"Verduras, hortalizas y frutas",guisantes finos,00118916700083____1__600x600.jpg,[]
+Congelados,"Verduras, hortalizas y frutas",guisantes finos,00118916700232____1__600x600.jpg,[]
+Congelados,"Verduras, hortalizas y frutas",habas baby,00118921400034____2__600x600.jpg,[]
+Congelados,"Verduras, hortalizas y frutas",judía entera extrafina,00118917200125____2__600x600.jpg,[]
+Congelados,"Verduras, hortalizas y frutas",judias verdes planas,00118917200208____1__600x600.jpg,[]
+Congelados,"Verduras, hortalizas y frutas",judías verdes planas,00118917200091____1__600x600.jpg,[]
+Congelados,"Verduras, hortalizas y frutas",judías verdes redondas troceadas,00201117200152____1__600x600.jpg,[]
+Congelados,"Verduras, hortalizas y frutas",menestra de verduras,00118918600158____1__600x600.jpg,[]
+Congelados,"Verduras, hortalizas y frutas",menestra especial,00118918600141____2__600x600.jpg,[]
+Congelados,"Verduras, hortalizas y frutas",menestra de verduras de la huerta,00118918600075____1__600x600.jpg,['sulfitos']
+Congelados,"Verduras, hortalizas y frutas",menestra de verduras,00201118600103____1__600x600.jpg,[]
+Congelados,"Verduras, hortalizas y frutas",Tradition patatas congeladas,00118944500026____3__600x600.jpg,[]
+Congelados,"Verduras, hortalizas y frutas",Golden Long patatas congeladas larga y fina,00118944500034____3__600x600.jpg,[]
+Congelados,"Verduras, hortalizas y frutas",Forno Country patatas corte rústico,00118944500471____3__600x600.jpg,['harina de trigo']
+Congelados,"Verduras, hortalizas y frutas",Forno Julienne patatas corte fino,00118944500158____4__600x600.jpg,['harina de trigo']
+Congelados,"Verduras, hortalizas y frutas",patatas Frit'Up para microondas,00118944500455____1__600x600.jpg,[]
+Congelados,"Verduras, hortalizas y frutas",patatas bravas caseras,00118944500133____3__600x600.jpg,[]
+Congelados,"Verduras, hortalizas y frutas",Mediterranean Potatoes gajos de patatas con piela  las finas hierbas,00118944500513____1__600x600.jpg,['harina de trigo']
+Congelados,"Verduras, hortalizas y frutas",patatas corte fino,00118944500539____7__600x600.jpg,[]
+Congelados,"Verduras, hortalizas y frutas",patatas corte tradicional,00118944500521____9__600x600.jpg,[]
+Congelados,"Verduras, hortalizas y frutas",preparado para tortilla de patata con cebolla,0118944500372000g01011.jpg,[]
+Congelados,"Verduras, hortalizas y frutas",patatas bravas para microondas salsa incluida,00118944500463____1__600x600.jpg,"['crustáceos', 'sésamo', 'moluscos', 'lactosa', 'trazas de alérgenos', 'soja', 'apio', 'huevo', 'pescado', 'mostaza', 'lácteo', 'leche', 'frutos de cáscara']"
+Congelados,"Verduras, hortalizas y frutas",calabacín en dados,00118922800794____1__600x600.jpg,[]
+Congelados,"Verduras, hortalizas y frutas",verduras para crema y puré,0118922800745000g01011.jpg,[]
+Congelados,"Verduras, hortalizas y frutas",verduras para wok,00118958300651____1__600x600.jpg,[]
+Congelados,"Verduras, hortalizas y frutas",coliflor,00118922800620____1__600x600.jpg,[]
+Congelados,"Verduras, hortalizas y frutas",grelos hojas 2 porciones,0118922800406000g01011.jpg,[]
+Congelados,"Verduras, hortalizas y frutas",acelgas en hojas 4 porciones,00118922800604____1__600x600.jpg,[]
+Congelados,"Verduras, hortalizas y frutas",pochas,00118922800216____1__600x600.jpg,[]
+Congelados,"Verduras, hortalizas y frutas",verdura para paella,0118922800521000g01011.jpg,[]
+Congelados,"Verduras, hortalizas y frutas",espárrago verde entero,00118922800687____6__600x600.jpg,[]
+Congelados,"Verduras, hortalizas y frutas",coles de Bruselas,00118922800539____1__600x600.jpg,[]
+Congelados,"Verduras, hortalizas y frutas",zanahoria baby,00118922800224____1__600x600.jpg,[]
+Congelados,"Verduras, hortalizas y frutas",selección de setas enteras,00118922800455____1__600x600.jpg,['sulfitos']
+Congelados,"Verduras, hortalizas y frutas",maíz superdulce,00118943100034____1__600x600.jpg,[]
+Congelados,"Verduras, hortalizas y frutas",cebolla troceada congelada 100% natural,0118922800489000g01011.jpg,[]
+Congelados,"Verduras, hortalizas y frutas",verduras para sofrito 100% natural,0118922800497000g01011.jpg,[]
+Congelados,"Verduras, hortalizas y frutas",garrofón,0118922800513000g01011.jpg,[]
+Congelados,"Verduras, hortalizas y frutas",ajo troceado congelado 100% natural,00118922800471____1__600x600.jpg,[]
+Congelados,"Verduras, hortalizas y frutas",perejil troceado 100% natural,00118922800505____1__600x600.jpg,[]
+Congelados,"Verduras, hortalizas y frutas",garbanzo selecto,00118922800166____2__600x600.jpg,[]
